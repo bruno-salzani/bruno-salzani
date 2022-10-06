@@ -1,9 +1,9 @@
 # Bruno Salzani
 
-### Qualidade de software
+### QUALIDADE DE SOFTWARE
 1. [FUNDAMENTOS QUALITY ASSURANCE: TESTPLAN E BOAS PRÁTICAS](https://cursos.alura.com.br/user/bruno-salzani/course/qa-fundamentos/certificate) <br />
 
-### Automação de testes <br />
+### AUTOMAÇÃO DE TESTES <br />
 1. [TESTES EM .NET: TESTES DE INTERFACE USANDO SELENIUM](https://cursos.alura.com.br/certificate/bruno-salzani/testes-net-testes-interface-selenium) <br />
 2. [SELENIUM: TESTES AUTOMATIZADOS DE ACEITAÇÃO EM .NET](https://cursos.alura.com.br/certificate/bruno-salzani/selenium-em-dotnet) <br />
 3. [SELENIUM WEBDRIVER E C# PARTE 1: TESTES DA SUA WEB APP](https://cursos.alura.com.br/certificate/bruno-salzani/selenium-csharp-webdriver) <br />
