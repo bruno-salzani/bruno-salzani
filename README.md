@@ -1,8 +1,8 @@
-# Bruno Salzani
+# BRUNO SALZANI
 Olá, seja bem vindo ao meu GITHUB, me chamo Bruno, sou Coordenador de qualidade de software na [Inspand](https://www.linkedin.com/company/inspandeducacao/mycompany/)
 
 
-## Estudos
+## ESTUDOS
 ### QUALIDADE DE SOFTWARE
 1. [FUNDAMENTOS QUALITY ASSURANCE: TESTPLAN E BOAS PRÁTICAS](https://cursos.alura.com.br/user/bruno-salzani/course/qa-fundamentos/certificate) <br />
 
