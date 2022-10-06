@@ -1,6 +1,7 @@
 # BRUNO SALZANI
-Olá, seja bem vindo ao meu GITHUB, me chamo Bruno, sou Coordenador de qualidade de software na [Inspand](https://www.linkedin.com/company/inspandeducacao/mycompany/)
-
+Olá, seja bem vindo ao meu GITHUB, me chamo Bruno, sou Coordenador de qualidade de software na [Inspand](https://www.linkedin.com/company/inspandeducacao/mycompany/)  <br />
+Linkedin: [in/brunosalzani/](https://www.linkedin.com/in/brunosalzani/)<br />
+Contato: [brunosalzani@hotmail.com](mail)
 
 ## ESTUDOS
 ### QUALIDADE DE SOFTWARE
