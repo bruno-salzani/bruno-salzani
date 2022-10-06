@@ -27,17 +27,20 @@ Contato: [brunosalzani@hotmail.com](mailto:brunosalzani@hotmail.com)
 12. [BOOTSTRAP: CRIAÇÃO DE UMA SINGLE-PAGE RESPONSIVA](https://cursos.alura.com.br/user/bruno-salzani/course/bootstrap-criacao-single-page-responsiva/certificate) <br />
 
 ### DOT NET
+1. [PROGRAMADOR DE SISTEMAS](http://www1.intranet.sp.senac.br/senac_solution/pss/relatorios/certificados/NBASVIARAPIDA/mod29.cfm?CRYPTALGID=8a7656e2-cd47-11eb-9977-f7340aa3fd80&dt=2021-06-14-16.34.31.000000)<br />
+1. [FORMAÇÃO: C# E ORIENTAÇÃO A OBJETOS](https://cursos.alura.com.br/degree/certificate/ca8bf1a4-bf4d-47ab-8826-d4de8b0f06d5)<br />
 1. [C# PARTE 1: PRIMEIROS PASSOS](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-parte-1-primeiros-passos/certificate) <br />
-2. [C# PARTE 2: ENTENDENDO A ORIENTAÇÃO A OBJETOS](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-parte-2-introducao-orientacao-objetos/certificate) <br />
-3. [C# PARTE 3: ENTENDENDO HERANÇA E INTERFACE](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-parte-3-heranca-interfaces-polimorfismo/certificate) <br />
-4. [C# PARTE 4: ENTENDENDO EXCEÇÕES](https://cursos.alura.com.br/certificate/bruno-salzani/csharp-parte-4-excecoes) <br />
-5. [C# PARTE 5: BIBLIOTECAS DLLS, DOCUMENTAÇÃO E USANDO O NUGET](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-biblioteca-dll-documentacao-nuget/certificate) <br />
+1. [C# PARTE 2: ENTENDENDO A ORIENTAÇÃO A OBJETOS](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-parte-2-introducao-orientacao-objetos/certificate) <br />
+1. [C# PARTE 3: ENTENDENDO HERANÇA E INTERFACE](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-parte-3-heranca-interfaces-polimorfismo/certificate) <br />
+1. [C# PARTE 4: ENTENDENDO EXCEÇÕES](https://cursos.alura.com.br/certificate/bruno-salzani/csharp-parte-4-excecoes) <br />
+1. [C# PARTE 5: BIBLIOTECAS DLLS, DOCUMENTAÇÃO E USANDO O NUGET](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-biblioteca-dll-documentacao-nuget/certificate) <br />
 6. [C# PARTE 6: STRINGS, EXPRESSÕES REGULARES E A CLASSE OBJECT](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-string-regex-object/certificate) <br />
 7. [C# PARTE 7: ARRAY E TIPOS GENÉRICOS](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-array-tipo-generico/certificate) <br />
 8. [C# PARTE 8: LIST, LAMBDA, LINQ](https://cursos.alura.com.br/certificate/bruno-salzani/csharp-list-lambda-linq) <br />
 9. [C# PARTE 9: ENTRADA E SAÍDA (I/O) COM STREAMS](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-io/certificate) <br />
 
 ### JAVASCRIPT
+1. [FORMAÇÃO VUE.JS](https://cursos.alura.com.br/degree/certificate/b27389b5-9622-4515-b751-810c5b540e30)
 1. [JAVASCRIPT: PROGRAMANDO NA LINGUAGEM DA WEB](https://cursos.alura.com.br/user/bruno-salzani/course/javascript-programando-na-linguagem-web/certificate) <br />
 2. [JAVASCRIPT: CONHECENDO O BROWSER E PADRÕES DE PROJETO](https://cursos.alura.com.br/user/bruno-salzani/course/javascript-es6-orientacao-a-objetos-parte-1/certificate) <br />
 3. [NODE.JS PARTE 1: INOVANDO COM JAVASCRIPT NO BACKEND](https://cursos.alura.com.br/user/bruno-salzani/course/nodejs-fundamentos/certificate) <br />
