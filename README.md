@@ -1,5 +1,8 @@
 # Bruno Salzani
+Olá, seja bem vindo ao meu GITHUB, me chamo Bruno, sou Coordenador de qualidade de software na [Inspand](https://www.linkedin.com/company/inspandeducacao/mycompany/)
 
+
+## Estudos
 ### QUALIDADE DE SOFTWARE
 1. [FUNDAMENTOS QUALITY ASSURANCE: TESTPLAN E BOAS PRÁTICAS](https://cursos.alura.com.br/user/bruno-salzani/course/qa-fundamentos/certificate) <br />
 
@@ -34,9 +37,9 @@
 9. [C# PARTE 9: ENTRADA E SAÍDA (I/O) COM STREAMS](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-io/certificate) <br />
 
 ### JAVASCRIPT
-[JAVASCRIPT: PROGRAMANDO NA LINGUAGEM DA WEB](https://cursos.alura.com.br/user/bruno-salzani/course/javascript-programando-na-linguagem-web/certificate) <br />
-[JAVASCRIPT: CONHECENDO O BROWSER E PADRÕES DE PROJETO](https://cursos.alura.com.br/user/bruno-salzani/course/javascript-es6-orientacao-a-objetos-parte-1/certificate) <br />
-[NODE.JS PARTE 1: INOVANDO COM JAVASCRIPT NO BACKEND](https://cursos.alura.com.br/user/bruno-salzani/course/nodejs-fundamentos/certificate) <br />
+1. [JAVASCRIPT: PROGRAMANDO NA LINGUAGEM DA WEB](https://cursos.alura.com.br/user/bruno-salzani/course/javascript-programando-na-linguagem-web/certificate) <br />
+2. [JAVASCRIPT: CONHECENDO O BROWSER E PADRÕES DE PROJETO](https://cursos.alura.com.br/user/bruno-salzani/course/javascript-es6-orientacao-a-objetos-parte-1/certificate) <br />
+3. [NODE.JS PARTE 1: INOVANDO COM JAVASCRIPT NO BACKEND](https://cursos.alura.com.br/user/bruno-salzani/course/nodejs-fundamentos/certificate) <br />
 
 ### INTERPESSOAL
 1. [RELACIONAMENTO INTERPESSOAL: APRENDA A LIDAR MELHOR COM VOCÊ E COM O OUTRO](https://cursos.alura.com.br/user/bruno-salzani/course/relacionamento-pessoal/certificate) <br />
