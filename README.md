@@ -74,6 +74,7 @@ Olá, seja bem vindo ao meu GITHUB, me chamo Bruno, sou Coordenador de qualidade
 </details>
 
 <details><summary><b>OUTROS</b></summary>
+ 
 1. [PROGRAMADOR DE SISTEMAS](http://www1.intranet.sp.senac.br/senac_solution/pss/relatorios/certificados/NBASVIARAPIDA/mod29.cfm?CRYPTALGID=8a7656e2-cd47-11eb-9977-f7340aa3fd80&dt=2021-06-14-16.34.31.000000)<br /> 
 1. [HTTP: ENTENDENDO A WEB POR BAIXO DOS PANOS](https://cursos.alura.com.br/user/bruno-salzani/course/http-fundamentos/certificate) <br />
 1. [SCRUM: AGILIDADE EM SEU PROJETO](https://cursos.alura.com.br/user/bruno-salzani/course/agile-scrum/certificate) <br />
