@@ -43,9 +43,7 @@ Olá, seja bem vindo ao meu GITHUB, me chamo Bruno, sou Coordenador de qualidade
 </details>
 
 <details><summary><b>DOT NET</b></summary>
-  
-1. [PROGRAMADOR DE SISTEMAS](http://www1.intranet.sp.senac.br/senac_solution/pss/relatorios/certificados/NBASVIARAPIDA/mod29.cfm?CRYPTALGID=8a7656e2-cd47-11eb-9977-f7340aa3fd80&dt=2021-06-14-16.34.31.000000)<br />
-1. [FORMAÇÃO: C# E ORIENTAÇÃO A OBJETOS](https://cursos.alura.com.br/degree/certificate/ca8bf1a4-bf4d-47ab-8826-d4de8b0f06d5)<br />
+
 1. [C# PARTE 1: PRIMEIROS PASSOS](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-parte-1-primeiros-passos/certificate) <br />
 1. [C# PARTE 2: ENTENDENDO A ORIENTAÇÃO A OBJETOS](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-parte-2-introducao-orientacao-objetos/certificate) <br />
 1. [C# PARTE 3: ENTENDENDO HERANÇA E INTERFACE](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-parte-3-heranca-interfaces-polimorfismo/certificate) <br />
@@ -55,7 +53,8 @@ Olá, seja bem vindo ao meu GITHUB, me chamo Bruno, sou Coordenador de qualidade
 1. [C# PARTE 7: ARRAY E TIPOS GENÉRICOS](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-array-tipo-generico/certificate) <br />
 1. [C# PARTE 8: LIST, LAMBDA, LINQ](https://cursos.alura.com.br/certificate/bruno-salzani/csharp-list-lambda-linq) <br />
 1. [C# PARTE 9: ENTRADA E SAÍDA (I/O) COM STREAMS](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-io/certificate) <br />
-  
+1. [PROGRAMADOR DE SISTEMAS](http://www1.intranet.sp.senac.br/senac_solution/pss/relatorios/certificados/NBASVIARAPIDA/mod29.cfm?CRYPTALGID=8a7656e2-cd47-11eb-9977-f7340aa3fd80&dt=2021-06-14-16.34.31.000000)<br />  
+ 
 </details>
 
 <details><summary><b>JAVASCRIPT</b></summary>
