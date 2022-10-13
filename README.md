@@ -8,7 +8,15 @@ Olá, seja bem vindo ao meu GITHUB, me chamo Bruno, sou Coordenador de qualidade
   <a href = "mailto:brunosalzani@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-## CERTIFICADOS
+## ESTUDOS
+<details><summary><b>AUTOMAÇÃO DE TESTES</b></summary>
+
+1. [FUNDAMENTOS QUALITY ASSURANCE: TESTPLAN E BOAS PRÁTICAS](https://cursos.alura.com.br/user/bruno-salzani/course/qa-fundamentos/certificate) <br />
+1. [BDD: BEHAVIOR DRIVEN DEVELOPMENT COM CUCUMBER](https://cursos.alura.com.br/certificate/b1956ef4-b9e1-4820-ba40-e2d1163e9068) <br />
+
+  
+</details>
+
 <details><summary><b>AUTOMAÇÃO DE TESTES</b></summary>
 
 1. [TESTES EM .NET: TESTES DE INTERFACE USANDO SELENIUM](https://cursos.alura.com.br/certificate/bruno-salzani/testes-net-testes-interface-selenium) <br />
