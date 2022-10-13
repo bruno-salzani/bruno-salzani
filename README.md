@@ -12,6 +12,7 @@ Olá, seja bem vindo ao meu GITHUB, me chamo Bruno, sou Coordenador de qualidade
 <details><summary><b>QUALIDADE DE SOFTWARE</b></summary>
 
 1. [FUNDAMENTOS QUALITY ASSURANCE: TESTPLAN E BOAS PRÁTICAS](https://cursos.alura.com.br/user/bruno-salzani/course/qa-fundamentos/certificate) <br />
+1. [QUALITY ASSURANCE: PLANO DE TESTES E GESTÃO DE BUGS](https://cursos.alura.com.br/certificate/2c8eaa73-b5c0-413c-93de-5457fbab3ef6) <br />
 1. [BDD: BEHAVIOR DRIVEN DEVELOPMENT COM CUCUMBER](https://cursos.alura.com.br/certificate/b1956ef4-b9e1-4820-ba40-e2d1163e9068) <br />
 
   
