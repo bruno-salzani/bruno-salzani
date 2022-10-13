@@ -52,8 +52,7 @@ Olá, seja bem vindo ao meu GITHUB, me chamo Bruno, sou Coordenador de qualidade
 1. [C# PARTE 6: STRINGS, EXPRESSÕES REGULARES E A CLASSE OBJECT](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-string-regex-object/certificate) <br />
 1. [C# PARTE 7: ARRAY E TIPOS GENÉRICOS](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-array-tipo-generico/certificate) <br />
 1. [C# PARTE 8: LIST, LAMBDA, LINQ](https://cursos.alura.com.br/certificate/bruno-salzani/csharp-list-lambda-linq) <br />
-1. [C# PARTE 9: ENTRADA E SAÍDA (I/O) COM STREAMS](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-io/certificate) <br />
-1. [PROGRAMADOR DE SISTEMAS](http://www1.intranet.sp.senac.br/senac_solution/pss/relatorios/certificados/NBASVIARAPIDA/mod29.cfm?CRYPTALGID=8a7656e2-cd47-11eb-9977-f7340aa3fd80&dt=2021-06-14-16.34.31.000000)<br />  
+1. [C# PARTE 9: ENTRADA E SAÍDA (I/O) COM STREAMS](https://cursos.alura.com.br/user/bruno-salzani/course/csharp-io/certificate) <br /> 
  
 </details>
 
@@ -75,7 +74,7 @@ Olá, seja bem vindo ao meu GITHUB, me chamo Bruno, sou Coordenador de qualidade
 </details>
 
 <details><summary><b>OUTROS</b></summary>
-
+1. [PROGRAMADOR DE SISTEMAS](http://www1.intranet.sp.senac.br/senac_solution/pss/relatorios/certificados/NBASVIARAPIDA/mod29.cfm?CRYPTALGID=8a7656e2-cd47-11eb-9977-f7340aa3fd80&dt=2021-06-14-16.34.31.000000)<br /> 
 1. [HTTP: ENTENDENDO A WEB POR BAIXO DOS PANOS](https://cursos.alura.com.br/user/bruno-salzani/course/http-fundamentos/certificate) <br />
 1. [SCRUM: AGILIDADE EM SEU PROJETO](https://cursos.alura.com.br/user/bruno-salzani/course/agile-scrum/certificate) <br />
 1. [EXCEL: DOMINE O EDITOR DE PLANILHAS](https://cursos.alura.com.br/user/bruno-salzani/course/excel-introducao/certificate) <br />
