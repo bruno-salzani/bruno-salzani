@@ -11,7 +11,7 @@ Olá, seja bem vindo ao meu GITHUB, me chamo Bruno, sou Coordenador de qualidade
 ## ESTUDOS
 <details><summary><b>QUALIDADE DE SOFTWARE</b></summary>
 
-1. [FUNDAMENTOS QUALITY ASSURANCE: TESTPLAN E BOAS PRÁTICAS](https://cursos.alura.com.br/user/bruno-salzani/course/qa-fundamentos/certificate) <br />
+1. [FUNDAMENTOS QUALITY ASSURANCE: TESTPLAN E BOAS PRÁTICAS](https://cursos.alura.com.br/certificate/48e29980-9af3-4ba1-b2fa-0a7bbae60793) <br />
 1. [QUALITY ASSURANCE: PLANO DE TESTES E GESTÃO DE BUGS](https://cursos.alura.com.br/certificate/2c8eaa73-b5c0-413c-93de-5457fbab3ef6) <br />
 1. [BDD: BEHAVIOR DRIVEN DEVELOPMENT COM CUCUMBER](https://cursos.alura.com.br/certificate/b1956ef4-b9e1-4820-ba40-e2d1163e9068) <br />
 
@@ -20,9 +20,9 @@ Olá, seja bem vindo ao meu GITHUB, me chamo Bruno, sou Coordenador de qualidade
 
 <details><summary><b>AUTOMAÇÃO DE TESTES</b></summary>
 
-1. [TESTES EM .NET: TESTES DE INTERFACE USANDO SELENIUM](https://cursos.alura.com.br/certificate/bruno-salzani/testes-net-testes-interface-selenium) <br />
-1. [SELENIUM: TESTES AUTOMATIZADOS DE ACEITAÇÃO EM .NET](https://cursos.alura.com.br/certificate/bruno-salzani/selenium-em-dotnet) <br />
-1. [SELENIUM WEBDRIVER E C# PARTE 1: TESTES DA SUA WEB APP](https://cursos.alura.com.br/certificate/bruno-salzani/selenium-csharp-webdriver) <br />
+1. [TESTES EM .NET: TESTES DE INTERFACE USANDO SELENIUM](https://cursos.alura.com.br/certificate/342ad3d1-def3-4213-aadf-3d909371112d) <br />
+1. [SELENIUM: TESTES AUTOMATIZADOS DE ACEITAÇÃO EM .NET](https://cursos.alura.com.br/certificate/e2ec4168-3554-441f-a714-aa4438510503) <br />
+1. [SELENIUM WEBDRIVER E C# PARTE 1: TESTES DA SUA WEB APP](https://cursos.alura.com.br/certificate/14289510-7e48-4794-9473-10c18004a68b) <br />
   
 </details>
 
