@@ -73,6 +73,7 @@ Olá, seja bem vindo(a) ao meu GITHUB, me chamo Bruno, sou Coordenador de qualid
 1. [HTTP: ENTENDENDO A WEB POR BAIXO DOS PANOS](https://cursos.alura.com.br/certificate/d5f0a4c0-7aeb-4e95-b955-81ddac432234) <br />
 1. [GIT E GITHUB: CONTROLE E COMPARTILHE SEU CÓDIGO](https://cursos.alura.com.br/certificate/b3108efd-0480-49ad-9327-568fbee30ea6) <br />
 1. [SCRUM: AGILIDADE EM SEU PROJETO](https://cursos.alura.com.br/certificate/7216f842-0614-4eea-8040-a68275d7d489) <br />
+1. [ORGANIZAÇÃO DE EQUIPES ÁGEIS: OS PAPÉIS EXISTENTES EM UMA EQUIPE](https://cursos.alura.com.br/certificate/a54190d3-4dc0-4d51-9b7e-bead4a196f2e) <br />
 1. [EXCEL: DOMINE O EDITOR DE PLANILHAS](https://cursos.alura.com.br/certificate/346c8a3c-6e22-489d-a2da-4556a7a16052) <br />
 1. [EXCEL PROCV: LÓGICA BOOLEANA E BUSCA POR VALORES](https://cursos.alura.com.br/certificate/19579b82-8ced-476c-b792-b1ebf7eb4acb) <br />
 1. [FUNÇÕES COM EXCEL: OPERAÇÕES MATEMÁTICAS E FILTROS](https://cursos.alura.com.br/certificate/6f9e79c2-bf52-4deb-aa61-aa0938cc7446)
