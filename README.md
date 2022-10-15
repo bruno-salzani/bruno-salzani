@@ -60,6 +60,7 @@ Olá, seja bem vindo ao meu GITHUB, me chamo Bruno, sou Coordenador de qualidade
 <details><summary><b>JAVASCRIPT</b></summary>
   
 1. [FORMAÇÃO VUE.JS](https://cursos.alura.com.br/degree/certificate/b27389b5-9622-4515-b751-810c5b540e30)<br />
+1. [JAVASCRIPT E HTML: DESENVOLVA UM JOGO E PRATIQUE LÓGICA DE PROGRAMAÇÃO](https://cursos.alura.com.br/certificate/bruno-salzani/logica-programacao-javascript-html)<br />
 1. [JAVASCRIPT: PROGRAMANDO NA LINGUAGEM DA WEB](https://cursos.alura.com.br/user/bruno-salzani/course/javascript-programando-na-linguagem-web/certificate)<br />
 1. [JAVASCRIPT: CONHECENDO O BROWSER E PADRÕES DE PROJETO](https://cursos.alura.com.br/user/bruno-salzani/course/javascript-es6-orientacao-a-objetos-parte-1/certificate)<br />
 1. [NODE.JS PARTE 1: INOVANDO COM JAVASCRIPT NO BACKEND](https://cursos.alura.com.br/user/bruno-salzani/course/nodejs-fundamentos/certificate)<br />
