@@ -53,7 +53,7 @@ Olá, seja bem vindo(a) ao meu GITHUB, me chamo Bruno, sou Coordenador de qualid
 </details>
 <details><summary><b>JAVASCRIPT</b></summary>
   
-1. [FORMAÇÃO VUE.JS](https://cursos.alura.com.br/degree/certificate/b27389b5-9622-4515-b751-810c5b540e30) <sub>(Alura)</sub> <br />
+1. [FORMAÇÃO VUE.JS](https://cursos.alura.com.br/degree/certificate/b27389b5-9622-4515-b751-810c5b540e30) <br />
 1. [JAVASCRIPT E HTML: DESENVOLVA UM JOGO E PRATIQUE LÓGICA DE PROGRAMAÇÃO](https://cursos.alura.com.br/certificate/c3abd570-36ac-4f45-adb9-8a79744dc5bd)<br />
 1. [JAVASCRIPT: PROGRAMANDO NA LINGUAGEM DA WEB](https://cursos.alura.com.br/certificate/ce4fce5e-5654-4d9e-ae48-66f7c9a4d779)<br />
 1. [JAVASCRIPT: CONHECENDO O BROWSER E PADRÕES DE PROJETO](https://cursos.alura.com.br/certificate/334e425b-c8a1-49ed-8e29-ee64be9a8ce9)<br />
