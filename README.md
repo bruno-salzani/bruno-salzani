@@ -67,7 +67,8 @@ Olá, seja bem vindo(a) ao meu GITHUB, me chamo Bruno, sou Coordenador de qualid
 1. [RELACIONAMENTO INTERPESSOAL: APRENDA A LIDAR MELHOR COM VOCÊ E COM O OUTRO](https://cursos.alura.com.br/certificate/c8f592e0-c24f-44e1-b812-f4f9dc6c1143) <br />
 1. [LIDERANÇA: APRENDENDO SOBRE A MISSÃO E PROPÓSITO DE LIDERAR PESSOAS](https://cursos.alura.com.br/certificate/08cf1ab0-6012-49fe-9d62-844bac5073e9) <br />
 1. [DELEGAÇÃO DE TAREFAS: OBTENHA O MELHOR DO SEU TIME](https://cursos.alura.com.br/certificate/7fdfc78f-3b34-49d9-9d53-15a05f32543d) <br />
-
+1. [LIDERANÇA: PRÁTICAS DE GESTÃO E MELHORIAS](https://cursos.alura.com.br/certificate/f1159702-389c-42d3-91ff-91ce9cf92bdf) <br />
+ 
 </details>
 <details><summary><b>OUTROS</b></summary>
  
