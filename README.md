@@ -50,15 +50,16 @@ Olá, seja bem vindo(a) ao meu GITHUB, me chamo Bruno, sou Coordenador de qualid
 1. [C# PARTE 7: ARRAY E TIPOS GENÉRICOS](https://cursos.alura.com.br/certificate/22df26d6-6b79-4b21-8c97-56776569cd20) <br />
 1. [C# PARTE 8: LIST, LAMBDA, LINQ](https://cursos.alura.com.br/certificate/f413c153-6190-4b78-bdad-c8cbe5fbe567) <br />
 1. [C# PARTE 9: ENTRADA E SAÍDA (I/O) COM STREAMS](https://cursos.alura.com.br/certificate/96acfcac-0165-49fd-b324-85f7522361c5) <br /> 
- 
+1. [C# E ORIENTAÇÃO A OBJETOS](https://cursos.alura.com.br/degree/certificate/ca8bf1a4-bf4d-47ab-8826-d4de8b0f06d5) <br />
+
 </details>
 <details><summary><b>JAVASCRIPT</b></summary>
   
-1. [FORMAÇÃO VUE.JS](https://cursos.alura.com.br/degree/certificate/b27389b5-9622-4515-b751-810c5b540e30) <br />
 1. [JAVASCRIPT E HTML: DESENVOLVA UM JOGO E PRATIQUE LÓGICA DE PROGRAMAÇÃO](https://cursos.alura.com.br/certificate/c3abd570-36ac-4f45-adb9-8a79744dc5bd)<br />
 1. [JAVASCRIPT: PROGRAMANDO NA LINGUAGEM DA WEB](https://cursos.alura.com.br/certificate/ce4fce5e-5654-4d9e-ae48-66f7c9a4d779)<br />
 1. [JAVASCRIPT: CONHECENDO O BROWSER E PADRÕES DE PROJETO](https://cursos.alura.com.br/certificate/334e425b-c8a1-49ed-8e29-ee64be9a8ce9)<br />
 1. [NODE.JS: INOVANDO COM JAVASCRIPT NO BACKEND](https://cursos.alura.com.br/certificate/a235a5a5-ffb8-4fd7-9a85-a2c784d784c7)<br />
+1. [FORMAÇÃO VUE.JS](https://cursos.alura.com.br/degree/certificate/b27389b5-9622-4515-b751-810c5b540e30) <br />
 
 </details>
 <details><summary><b>INTERPESSOAL</b></summary>
