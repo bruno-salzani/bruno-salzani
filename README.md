@@ -12,8 +12,9 @@ Olá, seja bem vindo(a) ao meu GITHUB, me chamo Bruno, sou Coordenador de qualid
 
 1. [FUNDAMENTOS QUALITY ASSURANCE: TESTPLAN E BOAS PRÁTICAS](https://cursos.alura.com.br/certificate/48e29980-9af3-4ba1-b2fa-0a7bbae60793) <br />
 1. [QUALITY ASSURANCE: PLANO DE TESTES E GESTÃO DE BUGS](https://cursos.alura.com.br/certificate/2c8eaa73-b5c0-413c-93de-5457fbab3ef6) <br />
+1. [GERENCIAMENTO DE QUALIDADE DE SOFTWARE PARTE 1: O DOCUMENTO MDS](https://cursos.alura.com.br/certificate/9e370fee-fc12-4a07-917a-302b048019b3) <br />
 1. [BDD: BEHAVIOR DRIVEN DEVELOPMENT COM CUCUMBER](https://cursos.alura.com.br/certificate/b1956ef4-b9e1-4820-ba40-e2d1163e9068) <br />
-  
+
 </details>
 <details><summary><b>AUTOMAÇÃO DE TESTES</b></summary>
 
