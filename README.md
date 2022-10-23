@@ -14,6 +14,7 @@ Olá, seja bem vindo(a) ao meu GITHUB, me chamo Bruno, sou Coordenador de qualid
 1. [QUALITY ASSURANCE: PLANO DE TESTES E GESTÃO DE BUGS](https://cursos.alura.com.br/certificate/2c8eaa73-b5c0-413c-93de-5457fbab3ef6) <br />
 1. [GERENCIAMENTO DE QUALIDADE DE SOFTWARE PARTE 1: O DOCUMENTO MDS](https://cursos.alura.com.br/certificate/9e370fee-fc12-4a07-917a-302b048019b3) <br />
 1. [BDD: BEHAVIOR DRIVEN DEVELOPMENT COM CUCUMBER](https://cursos.alura.com.br/certificate/b1956ef4-b9e1-4820-ba40-e2d1163e9068) <br />
+1. [CARREIRA QA: PROCESSOS E AUTOMAÇÃO DE TESTES](https://cursos.alura.com.br/degree/certificate/0395f251-befa-43e4-b7f7-3c0158554247) <br />
 
 </details>
 <details><summary><b>AUTOMAÇÃO DE TESTES</b></summary>
@@ -21,7 +22,8 @@ Olá, seja bem vindo(a) ao meu GITHUB, me chamo Bruno, sou Coordenador de qualid
 1. [TESTES EM .NET: TESTES DE INTERFACE USANDO SELENIUM](https://cursos.alura.com.br/certificate/342ad3d1-def3-4213-aadf-3d909371112d) <br />
 1. [SELENIUM: TESTES AUTOMATIZADOS DE ACEITAÇÃO EM .NET](https://cursos.alura.com.br/certificate/e2ec4168-3554-441f-a714-aa4438510503) <br />
 1. [SELENIUM WEBDRIVER E C# PARTE 1: TESTES DA SUA WEB APP](https://cursos.alura.com.br/certificate/14289510-7e48-4794-9473-10c18004a68b) <br />
-  
+1. [CYPRESS: AUTOMAÇÃO DE TESTES E2E](https://cursos.alura.com.br/certificate/d6e6ce51-7660-40b5-8981-85d952c6ef1c) <br />
+
 </details>
 <details><summary><b>HTML/CSS</b></summary>
 
