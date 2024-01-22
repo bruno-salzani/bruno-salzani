@@ -81,3 +81,14 @@ Olá, seja bem vindo(a) ao meu GITHUB, me chamo Bruno, sou Coordenador de qualid
 1. [ORGANIZAÇÃO DE EQUIPES ÁGEIS: OS PAPÉIS EXISTENTES EM UMA EQUIPE](https://cursos.alura.com.br/certificate/a54190d3-4dc0-4d51-9b7e-bead4a196f2e) <br />
 
 </details>
+
+## PROJETOS
+<details><summary><b>DESENVOLVIMENTO WEB</b></summary>
+
+1. [HTML COURSES](https://github.com/bruno-salzani/html-courses) <br />
+1. [HTML BARBERSHOP](https://github.com/bruno-salzani/html-barbershop) <br />
+1. [HTML COURSES](https://github.com/bruno-salzani/html-presentation) <br />
+1. [TERCEIRA IDADE](https://github.com/bruno-salzani/terceira-idade) <br />
+1. [BLOG TERCEIRA IDADE](https://github.com/bruno-salzani/blog-terceira-idade) <br />
+
+
