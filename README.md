@@ -90,6 +90,8 @@ Olá, seja bem vindo(a) ao meu GITHUB, me chamo Bruno, sou Coordenador de qualid
 1. [HTML PRESENTATION](https://github.com/bruno-salzani/html-presentation) <br />
 1. [TERCEIRA IDADE](https://github.com/bruno-salzani/terceira-idade) <br />
 1. [BLOG TERCEIRA IDADE](https://github.com/bruno-salzani/blog-terceira-idade) <br />
+1. [CSS MINIFY](https://github.com/bruno-salzani/minifycss) <br />
+1. [BINARY TO DECIMAL](https://github.com/bruno-salzani/bin2dec) <br />
 </details>
 
 <details><summary><b>QUALIDADE DE SOFTWARE</b></summary>
