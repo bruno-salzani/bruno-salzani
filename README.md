@@ -9,6 +9,15 @@ Olá, seja bem vindo(a) ao meu GITHUB, me chamo Bruno, sou Coordenador de qualid
 
 
 ## PROJETOS
+<details><summary><b>QUALIDADE DE SOFTWARE</b></summary>
+1. <a href="https://github.com/bruno-salzani/qa-api-natura-favoritos" target="_blank">TESTE API - FAVORITAR CONTEUDO</a> <br/>
+ Cliente: Natura <br/>
+ Data: 02/2024 <br/>
+2. <a href="https://github.com/bruno-salzani/qa-manual-natura-busca" target="_blank">TESTE MANUAL - CAMPO DE BUSCA</a> <br/>
+ Cliente: Natura <br/>
+ Data: 03/2024 <br/>
+</details>
+
 <details><summary><b>DESENVOLVIMENTO WEB</b></summary>
 
 1. [HTML COURSES](https://github.com/bruno-salzani/html-courses) <br />
@@ -19,13 +28,6 @@ Olá, seja bem vindo(a) ao meu GITHUB, me chamo Bruno, sou Coordenador de qualid
 1. [CSS MINIFY](https://github.com/bruno-salzani/minifycss) <br />
 1. [BINARY TO DECIMAL](https://github.com/bruno-salzani/bin2dec) <br />
 </details>
-
-<details><summary><b>QUALIDADE DE SOFTWARE</b></summary>
- 1. <a href="https://github.com/bruno-salzani/qa-manual-natura-busca" target="_blank">TESTE API - FAVORITAR CONTEUDO (NATURA)</a> <br/>
- 2. <a href="https://github.com/bruno-salzani/qa-api-natura-favoritos" target="_blank">TESTE MANUAL - CAMPO DE BUSCA (NATURA)</a> <br/>
- 
- </details>
-
 
 ## ESTUDOS
 <details><summary><b>QUALIDADE DE SOFTWARE</b></summary>
