@@ -21,8 +21,8 @@ Olá, seja bem vindo(a) ao meu GITHUB, me chamo Bruno, sou Coordenador de qualid
 </details>
 
 <details><summary><b>QUALIDADE DE SOFTWARE</b></summary>
- 1. <a href="https://github.com/bruno-salzani/qa-api-natura-favorito" target="_blank">TESTE API - FAVORITAR CONTEUDO (NATURA)</a> <br/>
- 2. <a href="https://github.com/bruno-salzani/qa-api-natura-favorito" target="_blank">TESTE MANUAL - CAMPO DE BUSCA (NATURA)</a> <br/>
+ 1. <a href="https://github.com/bruno-salzani/qa-manual-natura-busca" target="_blank">TESTE API - FAVORITAR CONTEUDO (NATURA)</a> <br/>
+ 2. <a href="https://github.com/bruno-salzani/qa-api-natura-favoritos" target="_blank">TESTE MANUAL - CAMPO DE BUSCA (NATURA)</a> <br/>
  
  </details>
 
