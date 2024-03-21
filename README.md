@@ -7,6 +7,26 @@ Olá, seja bem vindo(a) ao meu GITHUB, me chamo Bruno, sou Coordenador de qualid
   <a href = "mailto:brunosalzani@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
+
+## PROJETOS
+<details><summary><b>DESENVOLVIMENTO WEB</b></summary>
+
+1. [HTML COURSES](https://github.com/bruno-salzani/html-courses) <br />
+1. [HTML BARBERSHOP](https://github.com/bruno-salzani/html-barbershop) <br />
+1. [HTML PRESENTATION](https://github.com/bruno-salzani/html-presentation) <br />
+1. [TERCEIRA IDADE](https://github.com/bruno-salzani/terceira-idade) <br />
+1. [BLOG TERCEIRA IDADE](https://github.com/bruno-salzani/blog-terceira-idade) <br />
+1. [CSS MINIFY](https://github.com/bruno-salzani/minifycss) <br />
+1. [BINARY TO DECIMAL](https://github.com/bruno-salzani/bin2dec) <br />
+</details>
+
+<details><summary><b>QUALIDADE DE SOFTWARE</b></summary>
+ 1. <a href="https://github.com/bruno-salzani/qa-api-natura-favorito" target="_blank">TESTE API - FAVORITAR CONTEUDO (NATURA)</a> <br/>
+ 2. <a href="https://github.com/bruno-salzani/qa-api-natura-favorito" target="_blank">TESTE MANUAL - CAMPO DE BUSCA (NATURA)</a> <br/>
+ 
+ </details>
+
+
 ## ESTUDOS
 <details><summary><b>QUALIDADE DE SOFTWARE</b></summary>
 
@@ -80,22 +100,6 @@ Olá, seja bem vindo(a) ao meu GITHUB, me chamo Bruno, sou Coordenador de qualid
 1. [SCRUM: AGILIDADE EM SEU PROJETO](https://cursos.alura.com.br/certificate/7216f842-0614-4eea-8040-a68275d7d489) <br />
 1. [ORGANIZAÇÃO DE EQUIPES ÁGEIS: OS PAPÉIS EXISTENTES EM UMA EQUIPE](https://cursos.alura.com.br/certificate/a54190d3-4dc0-4d51-9b7e-bead4a196f2e) <br />
 
-</details>
-
-## PROJETOS
-<details><summary><b>DESENVOLVIMENTO WEB</b></summary>
-
-1. [HTML COURSES](https://github.com/bruno-salzani/html-courses) <br />
-1. [HTML BARBERSHOP](https://github.com/bruno-salzani/html-barbershop) <br />
-1. [HTML PRESENTATION](https://github.com/bruno-salzani/html-presentation) <br />
-1. [TERCEIRA IDADE](https://github.com/bruno-salzani/terceira-idade) <br />
-1. [BLOG TERCEIRA IDADE](https://github.com/bruno-salzani/blog-terceira-idade) <br />
-1. [CSS MINIFY](https://github.com/bruno-salzani/minifycss) <br />
-1. [BINARY TO DECIMAL](https://github.com/bruno-salzani/bin2dec) <br />
-</details>
-
-<details><summary><b>QUALIDADE DE SOFTWARE</b></summary>
- Under Construction
 </details>
 
 
