@@ -11,22 +11,36 @@ Olá, seja bem vindo(a) ao meu GITHUB, me chamo Bruno, sou Coordenador de qualid
 ## PROJETOS
 <details><summary><b>QUALIDADE DE SOFTWARE</b></summary>
 1. <a href="https://github.com/bruno-salzani/qa-api-natura-favoritos" target="_blank">TESTE API - FAVORITAR CONTEUDO</a> <br/>
- Cliente: Natura <br/>
+ Cliente: Natura (LMS)<br/>
  Data: 02/2024 <br/>
 2. <a href="https://github.com/bruno-salzani/qa-manual-natura-busca" target="_blank">TESTE MANUAL - CAMPO DE BUSCA</a> <br/>
- Cliente: Natura <br/>
+ Cliente: Natura (LMS)<br/>
  Data: 03/2024 <br/>
 </details>
 
 <details><summary><b>DESENVOLVIMENTO WEB</b></summary>
 
 1. [HTML COURSES](https://github.com/bruno-salzani/html-courses) <br />
+ Cliente: Desenvolvimento Individual <br/>
+ Data: 04/2021 <br/>
 1. [HTML BARBERSHOP](https://github.com/bruno-salzani/html-barbershop) <br />
+ Cliente: Desenvolvimento Individual <br/>
+ Data: 05/2021 <br/>
 1. [HTML PRESENTATION](https://github.com/bruno-salzani/html-presentation) <br />
+ Cliente: Desenvolvimento Individual <br/>
+ Data: 06/2021 <br/>
 1. [TERCEIRA IDADE](https://github.com/bruno-salzani/terceira-idade) <br />
+ Cliente: Projeto Social (Senac) <br/>
+ Data: 07/2021 <br/>
 1. [BLOG TERCEIRA IDADE](https://github.com/bruno-salzani/blog-terceira-idade) <br />
+ Cliente: Projeto Social (Senac) <br/>
+ Data: 08/2021 <br/>
 1. [CSS MINIFY](https://github.com/bruno-salzani/minifycss) <br />
+ Cliente: Desenvolvimento Individual <br/>
+ Data: 03/2023 <br/>
 1. [BINARY TO DECIMAL](https://github.com/bruno-salzani/bin2dec) <br />
+ Cliente: Desenvolvimento Individual <br/>
+ Data: 04/2023 <br/>
 </details>
 
 ## ESTUDOS
