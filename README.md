@@ -16,10 +16,9 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 ##  Tecnologias e Ferramentas
 
 - **Linguagens:** C#, JavaScript, HTML/CSS, SQL
-- **Automação de Testes:** Selenium, Cypress, BDD (Cucumber)
-- **Ferramentas de Gestão:** Jira, Git, GitHub
-- **Frameworks:** ASP.NET, Bootstrap, Vue.js
-- **Metodologias:** Scrum, Agile
+- **Ferramentas de Gestão:** Jira, Redmine, Git
+- **Frameworks:** Selenium, Cypress, ASP.NET, Vue.js, Bootstrap
+- **Metodologias:** BDD, Kanban, Scrum
 
 ---
 
@@ -28,7 +27,8 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 <details>
 <summary><b> Qualidade de Software</b></summary>
 
-1. [Teste de Software - Funcionalidades LMS (Natura)](https://github.com/bruno-salzani/teste-software-funcionalidades-natura)
+1. [Teste de Software - Funcionalidades LMS com teste manual (Natura)](https://github.com/bruno-salzani/teste-software-funcionalidades-natura)
+2. [Automação de Teste - Criação de conteúdo LMS com Cypress(Neolude)](https://github.com/bruno-salzani/cypress-lms-automation)
 </details>
 
 <details>
