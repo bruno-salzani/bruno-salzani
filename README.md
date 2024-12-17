@@ -132,6 +132,7 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 
 <details>
 <summary><b> Outros</b></summary>
+  
 1. [PROGRAMADOR DE SISTEMAS](https://www1.intranet.sp.senac.br/senac_solution/pss/relatorios/certificados/NBASVIARAPIDA/mod29.cfm?CRYPTALGID=8a7656e2-cd47-11eb-9977-f7340aa3fd80&dt=2021-06-14-16.34.31.000000)
 2. [HTTP: Entendendo a web por baixo dos panos](https://cursos.alura.com.br/certificate/bruno-salzani/http-fundamentos)
 3. [Python: começando com a linguagem](https://cursos.alura.com.br/user/bruno-salzani/course/python-introducao-a-linguagem/certificate)
