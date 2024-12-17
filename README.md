@@ -15,7 +15,7 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 
 ##  Tecnologias e Ferramentas
 
-- **Linguagens:** C#, JavaScript, HTML/CSS, SQL
+- **Linguagens:** C#, JavaScript, Java, HTML/CSS, SQL
 - **Ferramentas de Gestão:** Jira, Redmine, Git
 - **Frameworks:** Selenium, Cypress, ASP.NET, Vue.js, Bootstrap
 - **Metodologias:** BDD, Kanban, Scrum
