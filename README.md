@@ -121,14 +121,26 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 <details>
 <summary><b> Habilidades Interpessoais</b></summary>
 
-1. [RELACIONAMENTO INTERPESSOAL: APRENDA A LIDAR MELHOR COM VOCÊ E COM O OUTRO](https://cursos.alura.com.br/certificate/c8f592e0-c24f-44e1-b812-10c0b238ca1a)
-2. [LIDERANÇA E GESTÃO DE EQUIPES: APRENDENDO A LIDERAR E MOTIVAR SEU TIME](https://cursos.alura.com.br/certificate/8c2cc415-26f6-45d1-98cf-48f6b1d05190)
-3. [COMUNICAÇÃO INTERPESSOAL: CONQUISTE RESULTADOS COM A SUA COMUNICAÇÃO](https://cursos.alura.com.br/certificate/4acdd800-3c99-4385-b992-cbf5858960bc)
-4. [GESTÃO DE PESSOAS: FORME E LIDERE UMA EQUIPE DE ALTA PERFORMANCE](https://cursos.alura.com.br/certificate/d1d38042-b8e2-4689-83e0-4f11c4bb14d2)
-5. [GESTÃO DE TIME ÁGIL: IMPULSIONANDO A PERFORMANCE DO SEU TIME](https://cursos.alura.com.br/certificate/4d23cf88-d773-43a9-b632-2b7466093e5b)
+1. [Equipes ágeis: organizando os papéis em uma equipe](https://cursos.alura.com.br/user/bruno-salzani/course/equipes-ageis-organizando-papeis-equipe/certificate)
+2. [Liderança: práticas de gestão e melhorias](https://cursos.alura.com.br/user/bruno-salzani/course/lideranca-pratica-gestao-melhorias/certificate)
+3. [Organização de Equipes Ágeis: os papéis existentes em uma equipe](https://cursos.alura.com.br/user/bruno-salzani/course/organizando-equipes-ageis/certificate)
+4. [Liderança: aprendendo sobre a missão e propósito de liderar pessoas](https://cursos.alura.com.br/user/bruno-salzani/course/primeira-lideranca-aprendendo-liderar-pessoas/certificate)
+5. [Delegação de tarefas: obtenha o melhor do seu time](https://cursos.alura.com.br/user/bruno-salzani/course/delegacao-de-tarefas/certificate)
+6. [Relacionamento interpessoal: aprenda a lidar melhor com você e com o outro](https://cursos.alura.com.br/user/bruno-salzani/course/relacionamento-pessoal/certificate)
 
 </details>
 
+<details>
+<summary><b> Outros</b></summary>
+1. [PROGRAMADOR DE SISTEMAS](https://www1.intranet.sp.senac.br/senac_solution/pss/relatorios/certificados/NBASVIARAPIDA/mod29.cfm?CRYPTALGID=8a7656e2-cd47-11eb-9977-f7340aa3fd80&dt=2021-06-14-16.34.31.000000)
+2. [HTTP: Entendendo a web por baixo dos panos](https://cursos.alura.com.br/certificate/bruno-salzani/http-fundamentos)
+3. [Python: começando com a linguagem](https://cursos.alura.com.br/user/bruno-salzani/course/python-introducao-a-linguagem/certificate)
+4. [Excel: domine o editor de planilhas](https://cursos.alura.com.br/user/bruno-salzani/course/excel-introducao/certificate)
+5. [Excel procv: lógica booleana e busca por valores](https://cursos.alura.com.br/user/bruno-salzani/course/excel-procv/certificate)
+6. [Funções com Excel: operações matemáticas e filtros](https://cursos.alura.com.br/user/bruno-salzani/course/excel-funcoes/certificate)
+
+</details>
+PROGRAMADOR DE SISTEMAS
 ---
 
 > **Essas certificações são um reflexo da minha jornada de aprendizado contínuo e dedicação em melhorar tanto minha expertise técnica quanto habilidades interpessoais.**
