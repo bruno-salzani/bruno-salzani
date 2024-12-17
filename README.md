@@ -54,40 +54,40 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 <details>
 <summary><b> Qualidade de Software</b></summary>
 
-1. [QUALITY ASSURANCE: PLANO DE TESTES E GESTÃO DE BUGS](https://cursos.alura.com.br/certificate/2c8eaa73-b5c0-413c-93de-5457fbab3ef6)
-2. [GERENCIAMENTO DE QUALIDADE DE SOFTWARE PARTE 1: O DOCUMENTO MDS](https://cursos.alura.com.br/certificate/9e370fee-fc12-4a07-917a-302b048019b3)
-3. [BDD: BEHAVIOR DRIVEN DEVELOPMENT COM CUCUMBER](https://cursos.alura.com.br/certificate/b1956ef4-b9e1-4820-ba40-e2d1163e9068)
-4. [CARREIRA QA: PROCESSOS E AUTOMAÇÃO DE TESTES](https://cursos.alura.com.br/degree/certificate/0395f251-befa-43e4-b7f7-3c0158554247)
-5. [FUNDAMENTOS QUALITY ASSURANCE: TESTPLAN E BOAS PRÁTICAS](https://cursos.alura.com.br/certificate/48e29980-9af3-4ba1-b2fa-0a7bbae60793)
+1. [Quality Assurance: plano de testes e gestão de bugs](https://cursos.alura.com.br/certificate/2c8eaa73-b5c0-413c-93de-5457fbab3ef6)
+2. [Gerenciamento de qualidade de software parte 1: o documento MDS](https://cursos.alura.com.br/certificate/9e370fee-fc12-4a07-917a-302b048019b3)
+3. [BDD e Java: Behavior Driven Development com Cucumber](https://cursos.alura.com.br/certificate/b1956ef4-b9e1-4820-ba40-e2d1163e9068)
+4. [Carreira QA: processos e automação de testes](https://cursos.alura.com.br/degree/certificate/0395f251-befa-43e4-b7f7-3c0158554247)
+5. [Fundamentos Quality Assurance: TestPlan e boas práticas](https://cursos.alura.com.br/certificate/48e29980-9af3-4ba1-b2fa-0a7bbae60793)
 
 </details>
 
 <details>
 <summary><b> Automação de Testes</b></summary>
 
-1. [CYPRESS: AUTOMATIZANDO TESTES E2E](https://cursos.alura.com.br/certificate/5c3f390b-eb84-46db-abf6-300bfd1adb33?lang=pt_BR)
-2. [CYPRESS: AUTOMAÇÃO DE TESTES E2E](https://cursos.alura.com.br/certificate/d6e6ce51-7660-40b5-8981-85d952c6ef1c)
-3. [TESTES EM .NET: TESTES DE INTERFACE USANDO SELENIUM](https://cursos.alura.com.br/certificate/342ad3d1-def3-4213-aadf-3d909371112d)
-4. [SELENIUM WEBDRIVER E C# PARTE 1: TESTES DA SUA WEB APP](https://cursos.alura.com.br/certificate/14289510-7e48-4794-9473-10c18004a68b)
-5. [SELENIUM: TESTES AUTOMATIZADOS DE ACEITAÇÃO EM .NET](https://cursos.alura.com.br/certificate/e2ec4168-3554-441f-a714-aa4438510503)
+1. [Cypress: automatizando testes E2E](https://cursos.alura.com.br/certificate/5c3f390b-eb84-46db-abf6-300bfd1adb33?lang=pt_BR)
+2. [Cypress: automação de testes E2E](https://cursos.alura.com.br/certificate/d6e6ce51-7660-40b5-8981-85d952c6ef1c)
+3. [Testes em .NET: testes de interface usando Selenium](https://cursos.alura.com.br/certificate/342ad3d1-def3-4213-aadf-3d909371112d)
+4. [Selenium WebDriver e C# parte 1: testes da sua web app](https://cursos.alura.com.br/certificate/14289510-7e48-4794-9473-10c18004a68b)
+5. [Selenium: Testes automatizados de aceitação em .NET](https://cursos.alura.com.br/certificate/e2ec4168-3554-441f-a714-aa4438510503)
 
 </details>
 
 <details>
 <summary><b> Desenvolvimento Frontend</b></summary>
 
-1. [HTML5 E CSS3 I: SUAS PRIMEIRAS PÁGINAS DA WEB](https://cursos.alura.com.br/certificate/6ac2fe58-1b2c-436c-bdbc-0824b9ccc1a5)
-2. [HTML5 E CSS3 II: TURBINANDO AS SUAS PÁGINAS](https://cursos.alura.com.br/certificate/b97424a9-97bc-4077-8091-8d0bd1ff247c) 
-3. [HTML5 E CSS3 PARTE 1: CRIE UMA PÁGINA DA WEB](https://cursos.alura.com.br/certificate/1209abd4-85e0-4562-a32c-10ecb7fc886f) 
-4. [HTML5 E CSS3 PARTE 2: POSICIONAMENTO, LISTAS E NAVEGAÇÃO](https://cursos.alura.com.br/certificate/00979dc6-15ba-43f9-bc5a-23c0ee7be7a7)
-5. [HTML5 E CSS3 PARTE 3: TRABALHANDO COM FORMULÁRIOS E TABELAS](https://cursos.alura.com.br/certificate/4e143324-cf13-4bdf-b8e9-822825686c4d)
-6. [HTML5 E CSS3 PARTE 4: AVANÇANDO NO CSS](https://cursos.alura.com.br/certificate/ad012211-a9d6-4b3c-a8b8-c80a6f08b63d)
-7. [FLEXBOX: POSICIONE ELEMENTOS NA TELA](https://cursos.alura.com.br/certificate/1e25c3b2-d4e9-4e0b-aaa6-8033fa1afb0c) 
-8. [ARQUITETURA CSS: DESCOMPLICANDO OS PROBLEMAS](https://cursos.alura.com.br/certificate/15188794-4aab-4a32-9b5f-4a1d3de8b23d) 
-9. [WEB DESIGN RESPONSIVO: PÁGINAS QUE SE ADAPTAM DO MOBILE AO DESK](https://cursos.alura.com.br/certificate/4bda398d-2d2d-42ed-a9b9-cf12bcd17e1c) 
-10. [LAYOUTS RESPONSIVOS: TRABALHANDO COM LAYOUTS MOBILE](https://cursos.alura.com.br/certificate/b7400ec7-b6a0-48e3-a3cb-9b690b39be60) 
-11. [BOOTSTRAP 4: CRIANDO UMA LANDING PAGE RESPONSIVA](https://cursos.alura.com.br/certificate/aff894c5-b2ae-4f98-a84f-22270488cf79) 
-12. [BOOTSTRAP: CRIAÇÃO DE UMA SINGLE-PAGE RESPONSIVA](https://cursos.alura.com.br/certificate/2a0adb8a-fa81-4e18-ae24-e5edb390cd5b)
+1. [HTML5 e CSS3 I: Suas primeiras páginas da Web](https://cursos.alura.com.br/certificate/6ac2fe58-1b2c-436c-bdbc-0824b9ccc1a5)
+2. [HTML5 e CSS3 II: Turbinando as suas páginas](https://cursos.alura.com.br/certificate/b97424a9-97bc-4077-8091-8d0bd1ff247c) 
+3. [HTML5 e CSS3 parte 1: crie uma página da Web](https://cursos.alura.com.br/certificate/1209abd4-85e0-4562-a32c-10ecb7fc886f) 
+4. [HTML5 e CSS3 parte 2: posicionamento, listas e navegação](https://cursos.alura.com.br/certificate/00979dc6-15ba-43f9-bc5a-23c0ee7be7a7)
+5. [HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas](https://cursos.alura.com.br/certificate/4e143324-cf13-4bdf-b8e9-822825686c4d)
+6. [HTML5 e CSS3 parte 4: avançando no CSS](https://cursos.alura.com.br/certificate/ad012211-a9d6-4b3c-a8b8-c80a6f08b63d)
+7. [Flexbox: posicione elementos na tela](https://cursos.alura.com.br/certificate/1e25c3b2-d4e9-4e0b-aaa6-8033fa1afb0c) 
+8. [Arquitetura CSS: descomplicando os problemas](https://cursos.alura.com.br/certificate/15188794-4aab-4a32-9b5f-4a1d3de8b23d) 
+9. [Web Design Responsivo: Páginas que se adaptam do mobile ao desk](https://cursos.alura.com.br/certificate/4bda398d-2d2d-42ed-a9b9-cf12bcd17e1c) 
+10. [Layouts Responsivos: trabalhando com layouts mobile](https://cursos.alura.com.br/certificate/b7400ec7-b6a0-48e3-a3cb-9b690b39be60) 
+11. [Bootstrap 4: criando uma landing page responsiva](https://cursos.alura.com.br/certificate/aff894c5-b2ae-4f98-a84f-22270488cf79) 
+12. [Bootstrap: criação de uma single-page responsiva](https://cursos.alura.com.br/certificate/2a0adb8a-fa81-4e18-ae24-e5edb390cd5b)
 
 </details>
  
