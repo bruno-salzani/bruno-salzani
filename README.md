@@ -74,7 +74,7 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 </details>
 
 <details>
-<summary><b> Desenvolvimento Frontend</b></summary>
+<summary><b> HTML/CSS </b></summary>
 
 1. [HTML5 e CSS3 I: Suas primeiras páginas da Web](https://cursos.alura.com.br/certificate/6ac2fe58-1b2c-436c-bdbc-0824b9ccc1a5)
 2. [HTML5 e CSS3 II: Turbinando as suas páginas](https://cursos.alura.com.br/certificate/b97424a9-97bc-4077-8091-8d0bd1ff247c) 
@@ -92,29 +92,16 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 </details>
  
 <details>
-<summary><b> Dot Net</b></summary>
+<summary><b> Programação </b></summary>
 
-1. [C# PARTE 1: PRIMEIROS PASSOS](https://cursos.alura.com.br/certificate/2c553ec8-89c7-4be9-a4ec-f771094fc050)  
-2. [C# PARTE 2: ENTENDENDO A ORIENTAÇÃO A OBJETOS](https://cursos.alura.com.br/certificate/bcfb9e4c-b97b-440b-81b4-ecf75d1201f2)  
-3. [C# PARTE 3: ENTENDENDO HERANÇA E INTERFACE](https://cursos.alura.com.br/certificate/6762bd8a-3eac-4059-857b-3955833e69cd)  
-4. [C# PARTE 4: ENTENDENDO EXCEÇÕES](https://cursos.alura.com.br/certificate/da9e1e4b-1549-4005-b43a-34bd4bb749c6)  
-5. [C# PARTE 5: BIBLIOTECAS DLLS, DOCUMENTAÇÃO E USANDO O NUGET](https://cursos.alura.com.br/certificate/8ef3060c-3e38-449b-b6ec-fca05142a786)  
-6. [C# PARTE 6: STRINGS, EXPRESSÕES REGULARES E A CLASSE OBJECT](https://cursos.alura.com.br/certificate/c47b2e12-0d44-4cca-ad32-e115e647570a)  
-7. [C# PARTE 7: ARRAY E TIPOS GENÉRICOS](https://cursos.alura.com.br/certificate/22df26d6-6b79-4b21-8c97-56776569cd20)  
-8. [C# PARTE 8: LIST, LAMBDA, LINQ](https://cursos.alura.com.br/certificate/f413c153-6190-4b78-bdad-c8cbe5fbe567)  
-9. [C# PARTE 9: ENTRADA E SAÍDA (I/O) COM STREAMS](https://cursos.alura.com.br/certificate/96acfcac-0165-49fd-b324-85f7522361c5)  
-10. [C# E ORIENTAÇÃO A OBJETOS](https://cursos.alura.com.br/degree/certificate/ca8bf1a4-bf4d-47ab-8826-d4de8b0f06d5)  
-
-</details>
-
-<details>
-<summary><b> JavaScript</b></summary>
-
-1. [JAVASCRIPT E HTML: DESENVOLVA UM JOGO E PRATIQUE LÓGICA DE PROGRAMAÇÃO](https://cursos.alura.com.br/certificate/c3abd570-36ac-4f45-adb9-8a79744dc5bd)
-2. [JAVASCRIPT: PROGRAMANDO NA LINGUAGEM DA WEB](https://cursos.alura.com.br/certificate/ce4fce5e-5654-4d9e-ae48-66f7c9a4d779)
-3. [JAVASCRIPT: CONHECENDO O BROWSER E PADRÕES DE PROJETO](https://cursos.alura.com.br/certificate/334e425b-c8a1-49ed-8e29-ee64be9a8ce9)
-4. [NODE.JS: INOVANDO COM JAVASCRIPT NO BACKEND](https://cursos.alura.com.br/certificate/a235a5a5-ffb8-4fd7-9a85-a2c784d784c7)
-5. [FORMAÇÃO VUE.JS](https://cursos.alura.com.br/degree/certificate/b27389b5-9622-4515-b751-810c5b540e30)
+1. [Programador de Sistemas](https://www1.intranet.sp.senac.br/senac_solution/pss/relatorios/certificados/NBASVIARAPIDA/mod29.cfm?CRYPTALGID=8a7656e2-cd47-11eb-9977-f7340aa3fd80&dt=2021-06-14-16.34.31.000000)
+1. [Formação C# e orientação a objetos](https://cursos.alura.com.br/degree/certificate/ca8bf1a4-bf4d-47ab-8826-d4de8b0f06d5)  
+1. [Python: começando com a linguagem](https://cursos.alura.com.br/user/bruno-salzani/course/python-introducao-a-linguagem/certificate)
+1. [JavaScript e HTML: desenvolva um jogo e pratique lógica de programação](https://cursos.alura.com.br/certificate/c3abd570-36ac-4f45-adb9-8a79744dc5bd)
+1. [JavaScript: programando na linguagem da web](https://cursos.alura.com.br/certificate/ce4fce5e-5654-4d9e-ae48-66f7c9a4d779)
+1. [JavaScript: conhecendo o Browser e padrões de projeto](https://cursos.alura.com.br/certificate/334e425b-c8a1-49ed-8e29-ee64be9a8ce9)
+1. [Formação Vue.js](https://cursos.alura.com.br/degree/certificate/b27389b5-9622-4515-b751-810c5b540e30)
+1. [Node.js Parte 1: Inovando com JavaScript no backend](https://cursos.alura.com.br/certificate/a235a5a5-ffb8-4fd7-9a85-a2c784d784c7)
 
 </details>
 
@@ -122,26 +109,24 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 <summary><b> Habilidades Interpessoais</b></summary>
 
 1. [Equipes ágeis: organizando os papéis em uma equipe](https://cursos.alura.com.br/user/bruno-salzani/course/equipes-ageis-organizando-papeis-equipe/certificate)
-2. [Liderança: práticas de gestão e melhorias](https://cursos.alura.com.br/user/bruno-salzani/course/lideranca-pratica-gestao-melhorias/certificate)
-3. [Organização de Equipes Ágeis: os papéis existentes em uma equipe](https://cursos.alura.com.br/user/bruno-salzani/course/organizando-equipes-ageis/certificate)
-4. [Liderança: aprendendo sobre a missão e propósito de liderar pessoas](https://cursos.alura.com.br/user/bruno-salzani/course/primeira-lideranca-aprendendo-liderar-pessoas/certificate)
-5. [Delegação de tarefas: obtenha o melhor do seu time](https://cursos.alura.com.br/user/bruno-salzani/course/delegacao-de-tarefas/certificate)
-6. [Relacionamento interpessoal: aprenda a lidar melhor com você e com o outro](https://cursos.alura.com.br/user/bruno-salzani/course/relacionamento-pessoal/certificate)
+1. [Liderança: práticas de gestão e melhorias](https://cursos.alura.com.br/user/bruno-salzani/course/lideranca-pratica-gestao-melhorias/certificate)
+1. [Organização de Equipes Ágeis: os papéis existentes em uma equipe](https://cursos.alura.com.br/user/bruno-salzani/course/organizando-equipes-ageis/certificate)
+1. [Liderança: aprendendo sobre a missão e propósito de liderar pessoas](https://cursos.alura.com.br/user/bruno-salzani/course/primeira-lideranca-aprendendo-liderar-pessoas/certificate)
+1. [Delegação de tarefas: obtenha o melhor do seu time](https://cursos.alura.com.br/user/bruno-salzani/course/delegacao-de-tarefas/certificate)
+1. [Relacionamento interpessoal: aprenda a lidar melhor com você e com o outro](https://cursos.alura.com.br/user/bruno-salzani/course/relacionamento-pessoal/certificate)
+1. [Formação Líderes Inspand Comunicação e Feedback](https://github.com/bruno-salzani/bruno-salzani/blob/main/Certificados/Forma%C3%A7%C3%A3o%20L%C3%ADderes%20Inspand%20Comunica%C3%A7%C3%A3o%20e%20Feedback.pdf)
 
 </details>
 
 <details>
 <summary><b> Outros</b></summary>
   
-1. [PROGRAMADOR DE SISTEMAS](https://www1.intranet.sp.senac.br/senac_solution/pss/relatorios/certificados/NBASVIARAPIDA/mod29.cfm?CRYPTALGID=8a7656e2-cd47-11eb-9977-f7340aa3fd80&dt=2021-06-14-16.34.31.000000)
-2. [HTTP: Entendendo a web por baixo dos panos](https://cursos.alura.com.br/certificate/bruno-salzani/http-fundamentos)
-3. [Python: começando com a linguagem](https://cursos.alura.com.br/user/bruno-salzani/course/python-introducao-a-linguagem/certificate)
-4. [Excel: domine o editor de planilhas](https://cursos.alura.com.br/user/bruno-salzani/course/excel-introducao/certificate)
-5. [Excel procv: lógica booleana e busca por valores](https://cursos.alura.com.br/user/bruno-salzani/course/excel-procv/certificate)
-6. [Funções com Excel: operações matemáticas e filtros](https://cursos.alura.com.br/user/bruno-salzani/course/excel-funcoes/certificate)
+1. [HTTP: Entendendo a web por baixo dos panos](https://cursos.alura.com.br/certificate/bruno-salzani/http-fundamentos)
+1. [Excel: domine o editor de planilhas](https://cursos.alura.com.br/user/bruno-salzani/course/excel-introducao/certificate)
+1. [Excel procv: lógica booleana e busca por valores](https://cursos.alura.com.br/user/bruno-salzani/course/excel-procv/certificate)
+1. [Funções com Excel: operações matemáticas e filtros](https://cursos.alura.com.br/user/bruno-salzani/course/excel-funcoes/certificate)
 
 </details>
-PROGRAMADOR DE SISTEMAS
----
+
 
 > **Essas certificações são um reflexo da minha jornada de aprendizado contínuo e dedicação em melhorar tanto minha expertise técnica quanto habilidades interpessoais.**
