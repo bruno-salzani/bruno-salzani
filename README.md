@@ -102,7 +102,7 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 * 12/2018 - [Formação C# e orientação a objetos](https://cursos.alura.com.br/degree/certificate/ca8bf1a4-bf4d-47ab-8826-d4de8b0f06d5)  <sub>(Alura)</sub> <br>
 * 08/2018 - [JavaScript: conhecendo o Browser e padrões de projeto](https://cursos.alura.com.br/certificate/334e425b-c8a1-49ed-8e29-ee64be9a8ce9) <sub>(Alura)</sub> <br>
 * 06/2018 - [Programador de Sistemas](https://www1.intranet.sp.senac.br/senac_solution/pss/relatorios/certificados/NBASVIARAPIDA/mod29.cfm?CRYPTALGID=8a7656e2-cd47-11eb-9977-f7340aa3fd80&dt=2021-06-14-16.34.31.000000) <sub>(Senac)</sub> <br>
-* 08/2018 - [Programador C#](https://github.com/bruno-salzani/bruno-salzani/blob/main/Certificados/Certificado%20Programador.png) <sub>(Microcenter)</sub> <br>
+* 08/2014 - [Programador C#](https://github.com/bruno-salzani/bruno-salzani/blob/main/Certificados/Certificado%20Programador.png) <sub>(Microcenter)</sub> <br>
 
 
 </details>
