@@ -27,24 +27,25 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 <details>
 <summary><b> Qualidade de Software</b></summary>
 
-1. [Teste de Software - LMS (Neolude)](https://github.com/bruno-salzani/manual-test-neolude)
-1. [Teste de Software - Gameficação (Natura)](https://github.com/bruno-salzani/teste-software-funcionalidades-natura)
-1. [Teste de Software - APP Mobile (Prudential)](https://github.com/bruno-salzani/manual-test-prudential) 
-1. [Automação de Teste - Cypress JS (Neolude)](https://github.com/bruno-salzani/cypress-lms-automation)
-1. [Automação de Teste - Cypress JS (Adopet)](https://github.com/bruno-salzani/test-cypress-adopet)
+* 12/2024 - [Automação de Teste - Cypress JS (Adopet)](https://github.com/bruno-salzani/test-cypress-adopet)
+* 05/2024 - [Teste de Software - LMS (Neolude)](https://github.com/bruno-salzani/manual-test-neolude)
+* 03/2024 - [Teste de Software - Gameficação (Natura)](https://github.com/bruno-salzani/teste-software-funcionalidades-natura)
+* 02/2024 - [Automação de Teste - Cypress JS (Neolude)](https://github.com/bruno-salzani/cypress-lms-automation)
+* 12/2023 - [Teste de Software - APP Mobile (Prudential)](https://github.com/bruno-salzani/manual-test-prudential) 
    
 </details>
 
 <details>
 <summary><b> Desenvolvimento Web</b></summary>
 
-1. [HTML Courses](https://github.com/bruno-salzani/html-courses)
-2. [HTML Barbershop](https://github.com/bruno-salzani/html-barbershop)
-3. [HTML Presentation](https://github.com/bruno-salzani/html-presentation)
-4. [Terceira Idade](https://github.com/bruno-salzani/terceira-idade)
-5. [Blog Terceira Idade](https://github.com/bruno-salzani/blog-terceira-idade)
-6. [CSS Minify](https://github.com/bruno-salzani/minifycss)
-7. [Binary to Decimal](https://github.com/bruno-salzani/bin2dec)
+* 04/2023 - [CSS Minify](https://github.com/bruno-salzani/minifycss)
+* 03/2023 - [Binary to Decimal](https://github.com/bruno-salzani/bin2dec)
+* 08/2021 - [Blog Terceira Idade](https://github.com/bruno-salzani/blog-terceira-idade)
+* 06/2021 - [Terceira Idade](https://github.com/bruno-salzani/terceira-idade)
+* 05/2021 - [HTML Courses](https://github.com/bruno-salzani/html-courses)
+* 04/2021 - [HTML Presentation](https://github.com/bruno-salzani/html-presentation)
+* 03/2021 - [HTML Barbershop](https://github.com/bruno-salzani/html-barbershop)
+  
 </details>
 
 ---
