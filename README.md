@@ -63,7 +63,8 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 
 <details>
 <summary><b> Automação de Testes</b></summary>
-
+  
+* 12/2024 - [Selenium: testes automatizados de aceitação em Java](https://cursos.alura.com.br/certificate/0367c0df-4ac4-44d3-bee8-c15bfa2d257d?lang) <sub>(Alura)</sub> <br>
 * 12/2024 - [Cypress: automatizando testes E2E](https://cursos.alura.com.br/certificate/5c3f390b-eb84-46db-abf6-300bfd1adb33?lang=pt_BR) <sub>(Alura)</sub> <br>
 * 11/2022 - [Cypress: automação de testes E2E](https://cursos.alura.com.br/certificate/d6e6ce51-7660-40b5-8981-85d952c6ef1c) <sub>(Alura)</sub> <br>
 * 10/2022 - [BDD e Java: Behavior Driven Development com Cucumber](https://cursos.alura.com.br/certificate/b1956ef4-b9e1-4820-ba40-e2d1163e9068) <sub>(Alura)</sub> <br>
