@@ -26,7 +26,8 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 
 <details>
 <summary><b> Qualidade de Software</b></summary>
-
+  
+* 01/2025 - [Automação de Teste - Selenium Java (Leilões)](https://github.com/bruno-salzani/automation-selenium-leiloes)
 * 12/2024 - [Automação de Teste - Cypress JS (Adopet)](https://github.com/bruno-salzani/test-cypress-adopet)
 * 05/2024 - [Teste de Software - LMS (Neolude)](https://github.com/bruno-salzani/manual-test-neolude)
 * 03/2024 - [Teste de Software - Gameficação (Natura)](https://github.com/bruno-salzani/teste-software-funcionalidades-natura)
