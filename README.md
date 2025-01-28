@@ -126,7 +126,7 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 
 <details>
 <summary><b> Outros</b></summary>
-  
+* 01/2025 - [Testes em .NET: integração e entrega contínua com Azure DevOps](https://cursos.alura.com.br/certificate/dbf97068-5a4b-424f-8b22-e475ea61cf72?lang) <sub>(Alura)</sub> <br>
 * 03/2024 - [Git e GitHub: compartilhando e colaborando em projetos](https://cursos.alura.com.br/user/bruno-salzani/course/git-github-compartilhando-colaborando-projetos/certificate) <sub>(Alura)</sub> <br>
 * 10/2022 - [Git e Github: controle e compartilhe seu código](https://cursos.alura.com.br/user/bruno-salzani/course/git-github-controle-de-versao/certificate) <sub>(Alura)</sub> <br>
 * 08/2020 - [Funções com Excel: operações matemáticas e filtros](https://cursos.alura.com.br/user/bruno-salzani/course/excel-funcoes/certificate) <sub>(Alura)</sub> <br>
