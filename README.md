@@ -55,9 +55,11 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 
 <details>
 <summary><b> Qualidade de Software</b></summary>
-
-* 10/2022 - [Carreira QA: processos e automação de testes](https://cursos.alura.com.br/degree/certificate/0395f251-befa-43e4-b7f7-3c0158554247) <sub>(Alura)</sub> <br>
-* 10/2022 - [Quality Assurance: plano de testes e gestão de bugs](https://cursos.alura.com.br/certificate/2c8eaa73-b5c0-413c-93de-5457fbab3ef6) <sub>(Alura)</sub><br>
+  
+* 01/2025 - [Testes em .NET: integração e entrega contínua com Azure DevOps](https://cursos.alura.com.br/certificate/dbf97068-5a4b-424f-8b22-e475ea61cf72?lang) <sub>(Alura)</sub> <br>
+* 12/2022 - [Carreira QA: processos e automação de testes](https://cursos.alura.com.br/degree/certificate/0395f251-befa-43e4-b7f7-3c0158554247) <sub>(Alura)</sub> <br>
+* 11/2022 - [Quality Assurance: plano de testes e gestão de bugs](https://cursos.alura.com.br/certificate/2c8eaa73-b5c0-413c-93de-5457fbab3ef6) <sub>(Alura)</sub><br>
+* 10/2022 - [BDD e Java: Behavior Driven Development com Cucumber](https://cursos.alura.com.br/certificate/b1956ef4-b9e1-4820-ba40-e2d1163e9068) <sub>(Alura)</sub> <br>
 * 09/2022 - [Gerenciamento de qualidade de software parte 1: o documento MDS](https://cursos.alura.com.br/certificate/9e370fee-fc12-4a07-917a-302b048019b3) <sub>(Alura)</sub><br>
 * 06/2021 - [Fundamentos Quality Assurance: TestPlan e boas práticas](https://cursos.alura.com.br/certificate/48e29980-9af3-4ba1-b2fa-0a7bbae60793) <sub>(Alura)</sub><br>
 
@@ -69,7 +71,7 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 * 12/2024 - [Selenium: testes automatizados de aceitação em Java](https://cursos.alura.com.br/certificate/0367c0df-4ac4-44d3-bee8-c15bfa2d257d?lang) <sub>(Alura)</sub> <br>
 * 12/2024 - [Cypress: automatizando testes E2E](https://cursos.alura.com.br/certificate/5c3f390b-eb84-46db-abf6-300bfd1adb33?lang=pt_BR) <sub>(Alura)</sub> <br>
 * 11/2022 - [Cypress: automação de testes E2E](https://cursos.alura.com.br/certificate/d6e6ce51-7660-40b5-8981-85d952c6ef1c) <sub>(Alura)</sub> <br>
-* 10/2022 - [BDD e Java: Behavior Driven Development com Cucumber](https://cursos.alura.com.br/certificate/b1956ef4-b9e1-4820-ba40-e2d1163e9068) <sub>(Alura)</sub> <br>
+
 * 09/2022 - [Testes em .NET: testes de interface usando Selenium](https://cursos.alura.com.br/certificate/342ad3d1-def3-4213-aadf-3d909371112d) <sub>(Alura)</sub> <br>
 * 12/2019 - [Selenium WebDriver e C# parte 1: testes da sua web app](https://cursos.alura.com.br/certificate/14289510-7e48-4794-9473-10c18004a68b) <sub>(Alura)</sub> <br>
 * 08/2018 - [Selenium: Testes automatizados de aceitação em .NET](https://cursos.alura.com.br/certificate/e2ec4168-3554-441f-a714-aa4438510503) <sub>(Alura)</sub> <br>
@@ -126,7 +128,7 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 
 <details>
 <summary><b> Outros</b></summary>
-* 01/2025 - [Testes em .NET: integração e entrega contínua com Azure DevOps](https://cursos.alura.com.br/certificate/dbf97068-5a4b-424f-8b22-e475ea61cf72?lang) <sub>(Alura)</sub> <br>
+  
 * 03/2024 - [Git e GitHub: compartilhando e colaborando em projetos](https://cursos.alura.com.br/user/bruno-salzani/course/git-github-compartilhando-colaborando-projetos/certificate) <sub>(Alura)</sub> <br>
 * 10/2022 - [Git e Github: controle e compartilhe seu código](https://cursos.alura.com.br/user/bruno-salzani/course/git-github-controle-de-versao/certificate) <sub>(Alura)</sub> <br>
 * 08/2020 - [Funções com Excel: operações matemáticas e filtros](https://cursos.alura.com.br/user/bruno-salzani/course/excel-funcoes/certificate) <sub>(Alura)</sub> <br>
