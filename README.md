@@ -71,10 +71,17 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 * 12/2024 - [Selenium: testes automatizados de aceitação em Java](https://cursos.alura.com.br/certificate/0367c0df-4ac4-44d3-bee8-c15bfa2d257d?lang) <sub>(Alura)</sub> <br>
 * 12/2024 - [Cypress: automatizando testes E2E](https://cursos.alura.com.br/certificate/5c3f390b-eb84-46db-abf6-300bfd1adb33?lang=pt_BR) <sub>(Alura)</sub> <br>
 * 11/2022 - [Cypress: automação de testes E2E](https://cursos.alura.com.br/certificate/d6e6ce51-7660-40b5-8981-85d952c6ef1c) <sub>(Alura)</sub> <br>
-
 * 09/2022 - [Testes em .NET: testes de interface usando Selenium](https://cursos.alura.com.br/certificate/342ad3d1-def3-4213-aadf-3d909371112d) <sub>(Alura)</sub> <br>
 * 12/2019 - [Selenium WebDriver e C# parte 1: testes da sua web app](https://cursos.alura.com.br/certificate/14289510-7e48-4794-9473-10c18004a68b) <sub>(Alura)</sub> <br>
 * 08/2018 - [Selenium: Testes automatizados de aceitação em .NET](https://cursos.alura.com.br/certificate/e2ec4168-3554-441f-a714-aa4438510503) <sub>(Alura)</sub> <br>
+
+</details>
+
+<details>
+<summary><b> CI/CD </b></summary>
+  
+* 02/2025 - [Integração Contínua: mais qualidade e menos risco no desenvolvimento](https://cursos.alura.com.br/user/bruno-salzani/course/desenvolvimento-software-integracao-continua/certificate) <sub>(Alura)</sub> <br>
+* 01/2025 - [Testes em .NET: integração e entrega contínua com Azure DevOps](https://cursos.alura.com.br/certificate/dbf97068-5a4b-424f-8b22-e475ea61cf72?lang) <sub>(Alura)</sub> <br>
 
 </details>
 
