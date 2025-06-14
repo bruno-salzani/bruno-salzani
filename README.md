@@ -39,7 +39,8 @@ Ol√°, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi√
 <details>
 <summary><b> Desenvolvimento Web</b></summary>
 
-* 06/2025 - [Clinica Nova Vida](https://github.com/bruno-salzani/clinica-novavida/)
+* 06/2025 - [Stargames Informatica](https://github.com/bruno-salzani/stargames-informatica)
+* 05/2025 - [Clinica Nova Vida](https://github.com/bruno-salzani/clinica-novavida/)
 * 04/2023 - [CSS Minify](https://github.com/bruno-salzani/minifycss)
 * 03/2023 - [Binary to Decimal](https://github.com/bruno-salzani/bin2dec)
 * 08/2021 - [Blog Terceira Idade](https://github.com/bruno-salzani/blog-terceira-idade)
