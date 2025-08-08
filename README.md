@@ -15,10 +15,12 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 
 ##  Tecnologias e Ferramentas
 
-- **Linguagens:** C#, JavaScript, Python, Java, HTML/CSS, SQL
-- **Ferramentas de Gestão:** Jira, Redmine, Git
-- **Frameworks:** Selenium, Cypress, ASP.NET, Vue.js, Bootstrap
-- **Metodologias:** BDD, Kanban, Scrum
+- **Linguagens:** C#, JavaScript, Python, Java, SQL, HTML/CSS
+- **Automação Web:** Selenium, Cypress
+- **Automação Mobile:** Appium
+- **BDD & Testes:** Cucumber, Gherkin
+- **CI/CD:** GitLab CI, GitHub Actions, Azure DevOps
+- **Gestão & Metodologias Ágeis:** Jira, Redmine, Git, Scrum, Kanban
 
 ---
 
@@ -70,7 +72,8 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 
 <details>
 <summary><b> Automação de Testes</b></summary>
-  
+
+* 08/2025 - [Appium: compreenda e aplique testes de interface](https://cursos.alura.com.br/user/bruno-salzani/course/appium-compreenda-e-aplique-testes-interface/certificate) <sub>(Alura)</sub> <br>
 * 12/2024 - [Selenium: testes automatizados de aceitação em Java](https://cursos.alura.com.br/certificate/0367c0df-4ac4-44d3-bee8-c15bfa2d257d?lang) <sub>(Alura)</sub> <br>
 * 12/2024 - [Cypress: automatizando testes E2E](https://cursos.alura.com.br/certificate/5c3f390b-eb84-46db-abf6-300bfd1adb33?lang=pt_BR) <sub>(Alura)</sub> <br>
 * 11/2022 - [Cypress: automação de testes E2E](https://cursos.alura.com.br/certificate/d6e6ce51-7660-40b5-8981-85d952c6ef1c) <sub>(Alura)</sub> <br>
@@ -108,7 +111,8 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
  
 <details>
 <summary><b> Programação </b></summary>
-
+  
+* 08/2025 - [ChatGPT e programação: aumente sua produtividade](https://cursos.alura.com.br/certificate/bruno-salzani/chatgpt-programacao-aumente-produtividade) <sub>(Alura)</sub> <br>
 * 10/2022 - [JavaScript e HTML: desenvolva um jogo e pratique lógica de programação](https://cursos.alura.com.br/certificate/c3abd570-36ac-4f45-adb9-8a79744dc5bd) <sub>(Alura)</sub> <br>
 * 03/2021 - [Formação Vue.js](https://cursos.alura.com.br/degree/certificate/b27389b5-9622-4515-b751-810c5b540e30) <sub>(Alura)</sub> <br>
 * 06/2020 - [Node.js Parte 1: Inovando com JavaScript no backend](https://cursos.alura.com.br/certificate/a235a5a5-ffb8-4fd7-9a85-a2c784d784c7) <sub>(Alura)</sub> <br>
