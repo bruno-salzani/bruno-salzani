@@ -54,6 +54,14 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
   
 </details>
 
+<details>
+<summary><b> Outros</b></summary>
+
+* 01/2026 - [SentinelKit - Cyber-Segurança](https://github.com/bruno-salzani/SentinelKit/tree/main)
+  
+</details>
+
+
 ---
 
 ##  Estudos e Certificações
