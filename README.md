@@ -28,7 +28,8 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 
 <details>
 <summary><b> Qualidade de Software</b></summary>
-  
+
+* 01/2026 - [Automação Mobile - Appium/Cucumber JS (Helios APP DETRAN)](https://github.com/bruno-salzani/helios-appium-automation/tree/main)
 * 01/2025 - [Automação de Teste - Selenium Java (Leilões)](https://github.com/bruno-salzani/automation-selenium-leiloes)
 * 12/2024 - [Automação de Teste - Cypress JS (Adopet)](https://github.com/bruno-salzani/test-cypress-adopet)
 * 05/2024 - [Teste de Software - LMS (Neolude)](https://github.com/bruno-salzani/manual-test-neolude)
