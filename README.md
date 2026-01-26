@@ -57,7 +57,8 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 <details>
 <summary><b> Outros</b></summary>
 
-* 01/2026 - [SentinelKit - Cyber-Segurança](https://github.com/bruno-salzani/SentinelKit/tree/main)
+* 02/2026 - [IgniTale - Desenvolvimento de Jogos](https://github.com/bruno-salzani/ignitale)
+* 01/2026 - [SentinelKit - Cibersegurança](https://github.com/bruno-salzani/SentinelKit/tree/main)
   
 </details>
 
