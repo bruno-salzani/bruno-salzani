@@ -2,6 +2,9 @@
 
 Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experiência em automação, desenvolvimento web e boas práticas em qualidade de software. Aqui você encontrará alguns dos meus projetos, estudos e certificações que refletem minha jornada e interesses na área de tecnologia.
 
+🔗 **Portfólio profissional:**  
+https://brunosalzani.netlify.app
+
 <div>
   <a href="https://www.linkedin.com/in/brunosalzani" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -9,6 +12,7 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
   <a href="mailto:brunosalzani@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+
 </div>
 
 ---
