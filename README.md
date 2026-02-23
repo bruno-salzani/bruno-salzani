@@ -44,6 +44,7 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 <details>
 <summary><b> Desenvolvimento Web</b></summary>
 
+* 01/2026 - [Aeromaintain-Pro](https://github.com/bruno-salzani/aeromaintain-pro)
 * 06/2025 - [Borges Captações](https://github.com/bruno-salzani/borges-captacoes)
 * 05/2025 - [Stargames Informatica](https://github.com/bruno-salzani/stargames-informatica)
 * 04/2025 - [Clinica Nova Vida](https://github.com/bruno-salzani/clinica-novavida/)
