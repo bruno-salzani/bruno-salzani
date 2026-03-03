@@ -32,12 +32,12 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 <details>
 <summary><b> Qualidade de Software</b></summary>
 
-* 01/2025 - [Automação de Teste - Selenium Java (Leilões)](https://github.com/bruno-salzani/automation-selenium-leiloes)
-* 12/2024 - [Automação de Teste - Cypress JS (Adopet)](https://github.com/bruno-salzani/test-cypress-adopet)
-* 05/2024 - [Teste de Software - LMS (Neolude)](https://github.com/bruno-salzani/manual-test-neolude)
-* 03/2024 - [Teste de Software - Gameficação (Natura)](https://github.com/bruno-salzani/teste-software-funcionalidades-natura)
-* 02/2024 - [Automação de Testes com Cypress — Neolude](https://github.com/bruno-salzani/cypress-lms-automation)
-* 12/2023 - [Projeto de QA Mobile — Prudential LMS](https://github.com/bruno-salzani/mobile-qa-prudential-lms) 
+* 01/2025 - [Leilões SPA - Web e2e Selenium](https://github.com/bruno-salzani/automation-selenium-leiloes)
+* 12/2024 - [Adopet SPA - Web e2e Cypress](https://github.com/bruno-salzani/automation-cypress-adopet)
+* 05/2024 - [Neolude LMS - Web App QA](https://github.com/bruno-salzani/neolude-lms-web-app-qa)
+* 03/2024 - [Natura Gamification - Web QA](https://github.com/bruno-salzani/natura-gamification-web-qa)
+* 02/2024 - [Neolude LMS - Web e2e Cypress](https://github.com/bruno-salzani/neolude-lms-e2e-cypress)
+* 12/2023 - [Prudential LMS - Mobile QA](https://github.com/bruno-salzani/prudential-lms-mobile-qa) 
    
 </details>
 
