@@ -36,8 +36,8 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 * 12/2024 - [Automação de Teste - Cypress JS (Adopet)](https://github.com/bruno-salzani/test-cypress-adopet)
 * 05/2024 - [Teste de Software - LMS (Neolude)](https://github.com/bruno-salzani/manual-test-neolude)
 * 03/2024 - [Teste de Software - Gameficação (Natura)](https://github.com/bruno-salzani/teste-software-funcionalidades-natura)
-* 02/2024 - [Automação de Teste - Cypress JS (Neolude)](https://github.com/bruno-salzani/cypress-lms-automation)
-* 12/2023 - [Teste de Software - APP Mobile (Prudential)](https://github.com/bruno-salzani/Teste-de-Software-APP-Mobile-Prudential/tree/main) 
+* 02/2024 - [Automação de Testes com Cypress — Neolude](https://github.com/bruno-salzani/cypress-lms-automation)
+* 12/2023 - [Projeto de QA Mobile — Prudential LMS](https://github.com/bruno-salzani/mobile-qa-prudential-lms) 
    
 </details>
 
