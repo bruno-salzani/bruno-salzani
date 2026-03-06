@@ -1,5 +1,3 @@
-<img width="1162" height="700" alt="image" src="https://github.com/user-attachments/assets/ce0c4651-fd3b-4d55-9720-6c49ffa2c3ac" /># BRUNO SALZANI
-
 Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experiência em automação, desenvolvimento web e boas práticas em qualidade de software. Aqui você encontrará alguns dos meus projetos, estudos e certificações que refletem minha jornada e interesses na área de tecnologia.
 
 <div>
