@@ -33,11 +33,11 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 * 12/2025 - [API Test Automation – ServeRest (Playwright + TypeScript)](https://github.com/bruno-salzani/serverest-api-playwright-automation)
 * 08/2025 - [API Test – Trello Management (Playwright))](https://github.com/bruno-salzani/trello-management-api-playwright)
 * 06/2025 - [Test Automation – Petstore API (Rest Assured)](https://github.com/bruno-salzani/petstore-api-playwright-automation)
-* 01/2025 - [E2E Test Automation - SPA Auctions Platform (Selenium)](https://github.com/bruno-salzani/automation-selenium-leiloes)
-* 12/2024 - [E2E Test Automation - Adopet SPA (Cypress)](https://github.com/bruno-salzani/automation-cypress-adopet)
+* 01/2025 - [Test Automation - SPA Auctions Platform (Selenium)](https://github.com/bruno-salzani/automation-selenium-leiloes)
+* 12/2024 - [Test Automation - Adopet SPA (Cypress)](https://github.com/bruno-salzani/automation-cypress-adopet)
 * 05/2024 - [QA Strategy & Testing - Neolude LMS (Web & Mobile)](https://github.com/bruno-salzani/neolude-lms-web-app-qa)
 * 03/2024 - [QA Testing - Natura Gamification Platform (Web)](https://github.com/bruno-salzani/natura-gamification-web-qa)
-* 02/2024 - [E2E Test Automation - Neolude LMS Platform (Cypress)](https://github.com/bruno-salzani/neolude-lms-e2e-cypress)
+* 02/2024 - [Test Automation - Neolude LMS Platform (Cypress)](https://github.com/bruno-salzani/neolude-lms-e2e-cypress)
 * 12/2023 - [Mobile QA Testing - Prudential LMS App](https://github.com/bruno-salzani/prudential-lms-mobile-qa) 
    
 </details>
