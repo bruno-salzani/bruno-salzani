@@ -45,17 +45,16 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 <details>
 <summary><b> Desenvolvimento Web</b></summary>
 
-* 01/2026 - [Aeromaintain-Pro](https://github.com/bruno-salzani/aeromaintain-pro)
-* 06/2025 - [Borges Captações](https://github.com/bruno-salzani/borges-captacoes)
-* 05/2025 - [Stargames Informatica](https://github.com/bruno-salzani/stargames-informatica)
-* 04/2025 - [Clinica Nova Vida](https://github.com/bruno-salzani/clinica-novavida/)
-* 04/2023 - [CSS Minify](https://github.com/bruno-salzani/minifycss)
-* 03/2023 - [Binary to Decimal](https://github.com/bruno-salzani/bin2dec)
-* 08/2021 - [Blog Terceira Idade](https://github.com/bruno-salzani/blog-terceira-idade)
-* 06/2021 - [Terceira Idade](https://github.com/bruno-salzani/terceira-idade)
-* 05/2021 - [HTML Courses](https://github.com/bruno-salzani/html-courses)
-* 04/2021 - [HTML Presentation](https://github.com/bruno-salzani/html-presentation)
-* 03/2021 - [HTML Barbershop](https://github.com/bruno-salzani/html-barbershop)
+* 01/2026 - [AeroMaintain Pro (React + Node.js + Clean Architecture)](https://github.com/bruno-salzani/aeromaintain-pro)
+* 06/2025 - [Borges Captações - (HTML5 + CSS3)](https://github.com/bruno-salzani/borges-captacoes)
+* 05/2025 - [Stargames Informática (Vite + Web Components)](https://github.com/bruno-salzani/stargames-informatica)
+* 04/2025 - [Clínica Nova Vida - Modern Web Platform](https://github.com/bruno-salzani/clinica-novavida/)
+* 03/2023 - [MinifyCSS (Staff Engineer Edition)](https://github.com/bruno-salzani/minifycss)
+* 01/2023 - [Binary to Decimal (Staff Engineer Review Edition)](https://github.com/bruno-salzani/bin2dec)
+* 08/2021 - [Blog Terceira Idade (Vue.js + TailwindCSS)](https://github.com/bruno-salzani/blog-terceira-idade)
+* 06/2021 - [Projeto Terceira Idade](https://github.com/bruno-salzani/terceira-idade)
+* 04/2021 - [HTML Presentation / Portfolio (HTML5 + CSS3)](https://github.com/bruno-salzani/html-presentation)
+* 03/2021 - [Barbershop Alura - Elite Frontend Architecture](https://github.com/bruno-salzani/html-barbershop)
   
 </details>
 
