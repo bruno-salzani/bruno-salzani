@@ -29,8 +29,10 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 <details>
 <summary><b> Qualidade de Software</b></summary>
 
-
-* 12/2025 - [API Test Automation – ServeRest (Playwright + TypeScript)](https://github.com/bruno-salzani/serverest-api-playwright-automation)
+* 02/2026 - [Test Automation – Booking.com (Selenium & Resilience4j)](https://github.com/bruno-salzani/booking-resilience-selenium-java)
+* 01/2026 - [Test Automation - Ecommerce Playground (Selenium Java))](https://github.com/bruno-salzani/ecommerce-selenium-java)
+* 12/2025 - [Test Automation - Dashboard Engine (Selenium + Java)](https://github.com/bruno-salzani/dashboard-selenium-java)
+* 10/2025 - [API Test Automation – ServeRest (Playwright + TypeScript)](https://github.com/bruno-salzani/serverest-api-playwright-automation)
 * 08/2025 - [API Test – Trello Management (Playwright))](https://github.com/bruno-salzani/trello-management-api-playwright)
 * 06/2025 - [Test Automation – Petstore API (Rest Assured)](https://github.com/bruno-salzani/petstore-api-playwright-automation)
 * 01/2025 - [Test Automation - SPA Auctions Platform (Selenium)](https://github.com/bruno-salzani/automation-selenium-leiloes)
