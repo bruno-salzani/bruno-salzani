@@ -29,6 +29,7 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 <details>
 <summary><b> Qualidade de Software</b></summary>
 
+* 03/2026 - [OmniMobile Automation Framework (Appium + Java)](https://github.com/bruno-salzani/test-automation-appium-saucelabs)
 * 02/2026 - [Test Automation – Booking.com (Selenium & Resilience4j)](https://github.com/bruno-salzani/booking-resilience-selenium-java)
 * 01/2026 - [Test Automation - Ecommerce Playground (Selenium Java))](https://github.com/bruno-salzani/ecommerce-selenium-java)
 * 12/2025 - [Test Automation - Dashboard Engine (Selenium + Java)](https://github.com/bruno-salzani/dashboard-selenium-java)
