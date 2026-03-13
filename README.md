@@ -65,7 +65,7 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 <summary><b> Outros</b></summary>
 
 * 02/2026 - [OpenClaw Assistant: AI Autonomous Operating System](https://github.com/bruno-salzani/openclaw-assistant)
-* 01/2026 - [AI Operating System (AI-OS) — LangGraph](https://github.com/bruno-salzani/langgraph-assistant)
+* 01/2026 - [LangGraph Assistant: AI Operating System (AI-OS)](https://github.com/bruno-salzani/langgraph-assistant)
 * 12/2025 - [SentinelKit - Cibersegurança](https://github.com/bruno-salzani/SentinelKit/tree/main)
   
 </details>
