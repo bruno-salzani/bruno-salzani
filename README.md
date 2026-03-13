@@ -30,12 +30,12 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 <summary><b> Qualidade de Software</b></summary>
 
 * 03/2026 - [OmniMobile Automation Framework (Appium + Java)](https://github.com/bruno-salzani/test-automation-appium-saucelabs)
-* 02/2026 - [Test Automation – Booking.com (Selenium & Resilience4j)](https://github.com/bruno-salzani/booking-resilience-selenium-java)
-* 01/2026 - [Test Automation - Ecommerce Playground (Selenium Java))](https://github.com/bruno-salzani/ecommerce-selenium-java)
-* 12/2025 - [Test Automation - Dashboard Engine (Selenium + Java)](https://github.com/bruno-salzani/dashboard-selenium-java)
-* 10/2025 - [API Test Automation – ServeRest (Playwright + TypeScript)](https://github.com/bruno-salzani/serverest-api-playwright-automation)
-* 08/2025 - [API Test – Trello Management (Playwright))](https://github.com/bruno-salzani/trello-management-api-playwright)
-* 06/2025 - [Test Automation – Petstore API (Rest Assured)](https://github.com/bruno-salzani/petstore-api-playwright-automation)
+* 01/2026 - [Test Automation – Booking.com (Selenium & Resilience4j)](https://github.com/bruno-salzani/booking-resilience-selenium-java)
+* 12/2025 - [Test Automation - Ecommerce Playground (Selenium Java))](https://github.com/bruno-salzani/ecommerce-selenium-java)
+* 10/2025 - [Test Automation - Dashboard Engine (Selenium + Java)](https://github.com/bruno-salzani/dashboard-selenium-java)
+* 07/2025 - [API Test Automation – ServeRest (Playwright + TypeScript)](https://github.com/bruno-salzani/serverest-api-playwright-automation)
+* 06/2025 - [API Test – Trello Management (Playwright))](https://github.com/bruno-salzani/trello-management-api-playwright)
+* 03/2025 - [Test Automation – Petstore API (Rest Assured)](https://github.com/bruno-salzani/petstore-api-playwright-automation)
 * 01/2025 - [Test Automation - SPA Auctions Platform (Selenium)](https://github.com/bruno-salzani/automation-selenium-leiloes)
 * 12/2024 - [Test Automation - Adopet SPA (Cypress)](https://github.com/bruno-salzani/automation-cypress-adopet)
 * 05/2024 - [QA Strategy & Testing - Neolude LMS (Web & Mobile)](https://github.com/bruno-salzani/neolude-lms-web-app-qa)
@@ -64,7 +64,9 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 <details>
 <summary><b> Outros</b></summary>
 
-* 01/2026 - [SentinelKit - Cibersegurança](https://github.com/bruno-salzani/SentinelKit/tree/main)
+* 02/2026 - [OpenClaw Assistant: AI Autonomous Operating System](https://github.com/bruno-salzani/openclaw-assistant)
+* 01/2026 - [AI Operating System (AI-OS) — LangGraph](https://github.com/bruno-salzani/langgraph-assistant)
+* 12/2025 - [SentinelKit - Cibersegurança](https://github.com/bruno-salzani/SentinelKit/tree/main)
   
 </details>
 
