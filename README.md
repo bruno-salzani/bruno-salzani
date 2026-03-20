@@ -1,15 +1,33 @@
-Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experiência em automação, desenvolvimento web e boas práticas em qualidade de software. Aqui você encontrará alguns dos meus projetos, estudos e certificações que refletem minha jornada e interesses na área de tecnologia.
+# Olá, seja bem-vindo(a) ao meu GitHub! 👋
 
-<div>
+Sou **Especialista em Teste de Software e Automação** com mais de 7 anos de experiência, focado em transformar a qualidade em um acelerador de entregas. Minha atuação une visão técnica e de negócio, criando automações escaláveis que chegam a **reduzir o tempo de testes em até 70%**.
+
+Especialista em construir infraestruturas modernas para **Web, Mobile e API**, utilizo ferramentas como Playwright, Selenium, Appium e Cypress aliados ao BDD. Diferente de abordagens comuns, aplico técnicas avançadas como **Deep Linking e API Seeding** para otimizar fluxos, além de integrar **Quality Gates em pipelines de CI/CD**. 
+
+Mais recentemente, venho expandindo essas esteiras de qualidade integrando **Inteligência Artificial (AI Agents)** e princípios de **Clean Architecture**, garantindo que apenas software altamente resiliente e inovador chegue ao cliente final.
+
+<div align="center">
   <a href="https://www.linkedin.com/in/brunosalzani" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:brunosalzani@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  
-  [![Portfolio](https://img.shields.io/badge/Acesse_meu_Portfólio-Clique_Aqui-blue?style=for-the-badge&logo=firefox)](http://brunosalzani.com/)
+  <a href="http://brunosalzani.com/">
+    <img src="https://img.shields.io/badge/Acesse_meu_Portfólio-Clique_Aqui-blue?style=for-the-badge&logo=firefox" target="_blank">
+  </a>
 </div>
+
+---
+
+## 🏆 Projetos em Destaque
+
+*(Aqui estão alguns dos projetos mais robustos que venho desenvolvendo recentemente)*
+
+* 🤖 **[LangGraph Assistant (AI-OS)](https://github.com/bruno-salzani/langgraph-assistant)**: Sistema autônomo baseado em agentes de IA, explorando o futuro da automação (2026).
+* 📱 **[OmniMobile Automation Framework](https://github.com/bruno-salzani/test-automation-appium-saucelabs)**: Automação mobile de alta performance utilizando Appium e Java (2026).
+* ✈️ **[AeroMaintain Pro](https://github.com/bruno-salzani/aeromaintain-pro)**: Plataforma web moderna construída com React e Node.js, validando conceitos de Clean Architecture (2026).
+* 🏨 **[Booking.com - Test Automation](https://github.com/bruno-salzani/booking-resilience-selenium-java)**: Automação E2E avançada aplicando Selenium & Resilience4j para testes à prova de falhas (2026).
 
 ---
 
