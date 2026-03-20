@@ -13,15 +13,16 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
 
 ---
 
-##  Tecnologias e Ferramentas
-
-- **Linguagens:** C#, JavaScript, Python, Java, SQL, HTML/CSS
-- **Automação Web:** Selenium, Cypress
-- **Automação Mobile:** Appium
-- **BDD & Testes:** Cucumber, Gherkin
-- **CI/CD:** GitLab CI, GitHub Actions, Azure DevOps
-- **Gestão & Metodologias Ágeis:** Jira, Redmine, Git, Scrum, Kanban
-
+## 🛠 Tecnologias e Ferramentas
+- **Linguagens & Runtime:** C#, JavaScript, TypeScript, Python, Java, Node.js, SQL, HTML5/CSS3.
+- **Automação de Testes:** Playwright, Selenium WebDriver, Cypress, Appium (Mobile), Rest Assured (API).
+- **IA & Agentes Autônomos:** LangGraph (AI-OS), Engenharia de Prompt, Automação de tarefas com LLMs.
+- **DevOps & CI/CD:** Azure DevOps (Pipelines), GitHub Actions, GitLab CI, Integração Contínua.
+- **Frameworks & Web:** React, Vue.js, Vite, Web Components, TailwindCSS, Bootstrap.
+- **Qualidade & Processos:** BDD (Cucumber/Gherkin), Planos de Teste, Gestão de Bugs, Resilience4j, SEO.
+- **Arquitetura & Boas Práticas:** Clean Architecture, Orientação a Objetos (POO), Design Patterns, Resiliência de Software.
+- **Gestão & Agilidade:** Liderança de Equipes, Scrum, Kanban, Jira, Redmine, Comunicação e Feedback.
+  
 ---
 
 ##  Projetos
