@@ -8,7 +8,7 @@ Olá, seja bem-vindo(a) ao meu GitHub! Sou **Analista de Testes/QA** com experi�
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
-  [![Portfolio](https://img.shields.io/badge/Acesse_meu_Portfólio-Clique_Aqui-blue?style=for-the-badge&logo=firefox)](https://brunosalzani.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/Acesse_meu_Portfólio-Clique_Aqui-blue?style=for-the-badge&logo=firefox)](http://brunosalzani.com/)
 </div>
 
 ---
