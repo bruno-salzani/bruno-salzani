@@ -2,19 +2,31 @@
 
 Sou **Especialista em Teste de Software e Automação** com mais de 7 anos de experiência, focado em transformar a qualidade em um acelerador de entregas. Minha atuação une visão técnica e de negócio, criando automações escaláveis que chegam a **reduzir o tempo de testes em até 70%**.
 
-Especialista em construir infraestruturas modernas para **Web, Mobile e API**, utilizo ferramentas como Playwright, Selenium, Appium e Cypress aliados ao BDD. Diferente de abordagens comuns, aplico técnicas avançadas como **Deep Linking e API Seeding** para otimizar fluxos, além de integrar **Quality Gates em pipelines de CI/CD**. 
+Especialista em construir infraestruturas modernas para **Web, Mobile e API**, utilizo ferramentas como Playwright, Selenium, Appium e Cypress aliados ao BDD. Diferente de abordagens comuns, aplico técnicas avançadas como **Deep Linking e API Seeding** para otimizar fluxos, além de integrar **Quality Gates em pipelines de CI/CD**.
 
 Mais recentemente, venho expandindo essas esteiras de qualidade integrando **Inteligência Artificial (AI Agents)** e princípios de **Clean Architecture**, garantindo que apenas software altamente resiliente e inovador chegue ao cliente final.
 
+---
+
+## 📄 Currículo/Resume
+
+**🇧🇷 Versão em Português**  
+👉 [Acessar Currículo](https://github.com/bruno-salzani/bruno-salzani/blob/main/Curriculo.pdf)
+
+**🇺🇸 English Version**  
+👉 [View Resume](https://github.com/bruno-salzani/bruno-salzani/blob/main/Curriculo_en.pdf)
+
+---
+
 <div align="center">
   <a href="https://www.linkedin.com/in/brunosalzani" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:brunosalzani@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="http://brunosalzani.com/">
-    <img src="https://img.shields.io/badge/Acesse_meu_Portfólio-Clique_Aqui-blue?style=for-the-badge&logo=firefox" target="_blank">
+  <a href="http://brunosalzani.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Acesse_meu_Portfólio-Clique_Aqui-blue?style=for-the-badge&logo=firefox">
   </a>
 </div>
 
