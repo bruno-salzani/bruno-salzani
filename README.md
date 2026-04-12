@@ -45,13 +45,14 @@ Mais recentemente, venho expandindo essas esteiras de qualidade integrando **Int
 
 ## 🛠 Tecnologias e Ferramentas
 - **Linguagens & Runtime:** C#, JavaScript, TypeScript, Python, Java, Node.js, SQL, HTML5/CSS3.
-- **Automação de Testes:** Playwright, Selenium WebDriver, Cypress, Appium (Mobile), Rest Assured (API).
-- **IA & Agentes Autônomos:** LangGraph (AI-OS), Engenharia de Prompt, Automação de tarefas com LLMs.
+- **Automação de Testes:** Playwright, Selenium WebDriver, Cypress, Appium 2, WebdriverIO 9, Rest Assured
+- **IA & Agentes Autônomos:** LangGraph (AI-OS), Engenharia de Prompt, Automação de tarefas com LLMs
 - **DevOps & CI/CD:** Azure DevOps (Pipelines), GitHub Actions, GitLab CI, Integração Contínua.
-- **Frameworks & Web:** React, Vue.js, Vite, Web Components, TailwindCSS, Bootstrap.
-- **Qualidade & Processos:** BDD (Cucumber/Gherkin), Planos de Teste, Gestão de Bugs, Resilience4j, SEO.
-- **Arquitetura & Boas Práticas:** Clean Architecture, Orientação a Objetos (POO), Design Patterns, Resiliência de Software.
-- **Gestão & Agilidade:** Liderança de Equipes, Scrum, Kanban, Jira, Redmine, Comunicação e Feedback.
+- **Frameworks & Web:** React, Vue.js, Vite, Web Components, TailwindCSS, Bootstrap
+- **Qualidade & Processos:** BDD (Cucumber/Gherkin), Shift-left Testing, Planos de Teste, Gestão de Bugs, Resilience4j, SEO
+- **Arquitetura & Boas Práticas:** Clean Architecture, Orientação a Objetos (POO), Design Patterns, Resiliência de Software
+- **API & Ferramentas**: Postman, SoapUI, JMeter, Google Lighthouse, Newman, Gatling, Fiddler, MITmproxy, Datadog
+- **Gestão & Agilidade:** Liderança de Equipes, Delegação de Tarefas, Scrum, Kanban, Jira, Redmine, Comunicação e Feedback
   
 ---
 
