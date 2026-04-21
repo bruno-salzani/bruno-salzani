@@ -25,7 +25,7 @@ Mais recentemente, venho expandindo essas esteiras de qualidade integrando **Int
   <a href="mailto:brunosalzani@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="http://https://brunosalzani.netlify.app/" target="_blank">
+  <a href="https://brunosalzani.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Acesse_meu_Portfólio-Clique_Aqui-blue?style=for-the-badge&logo=firefox">
   </a>
 </div>
