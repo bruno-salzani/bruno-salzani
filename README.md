@@ -80,6 +80,7 @@ Mais recentemente, venho expandindo essas esteiras de qualidade integrando **Int
 <details>
 <summary><b> Desenvolvimento Web</b></summary>
 
+* 05/2026 - [DMG Internações (React + Node.js)](https://github.com/bruno-salzani/dmg-internacoes)
 * 01/2026 - [AeroMaintain Pro (React + Node.js + Clean Architecture)](https://github.com/bruno-salzani/aeromaintain-pro)
 * 06/2025 - [Borges Captações - (HTML5 + CSS3)](https://github.com/bruno-salzani/borges-captacoes)
 * 05/2025 - [Stargames Informática (Vite + Web Components)](https://github.com/bruno-salzani/stargames-informatica)
