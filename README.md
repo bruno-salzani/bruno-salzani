@@ -1,8 +1,6 @@
 # Olá, seja bem-vindo(a) ao meu GitHub! 👋
 
-Olá, sou Bruno Salzani, Especialista em **QA** e profissional **PCD** com mais de **7 anos de experiência** no ciclo completo de testes. Domino o equilíbrio entre o olhar analítico dos testes manuais e exploratórios com a eficiência da automação **(Web, Mobile e API)** utilizando ferramentas de ponta como **Playwright, Cypress, Selenium e Appium**. Com foco em **BDD** e **Cucumber**, busco integrar a qualidade às regras de negócio desde o início para eliminar gargalos, garantir agilidade em projetos complexos e acelerar a entrega de valor ao cliente.
-
-Mais recentemente, venho expandindo essas esteiras de qualidade integrando **Inteligência Artificial (AI Agents)** e princípios de **Clean Architecture**, garantindo que apenas software altamente resiliente e inovador chegue ao cliente final.
+QA Specialist with over 7 years of experience in the full software testing lifecycle. I excel at balancing the analytical mindset of manual and exploratory testing with the efficiency of automation (Web, Mobile, and API) using cutting-edge tools such as Playwright, Cypress, Selenium, and Appium. With a strong focus on BDD and Cucumber, I integrate quality into business rules from day one to eliminate bottlenecks, ensure agility in complex projects, and accelerate the delivery of value to the client.
 
 ---
 
